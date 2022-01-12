@@ -1,0 +1,2902 @@
+[
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDI0NzU2OA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-31T09:26:30.303698",
+    "name": "PhantaBear",
+    "slug": "phantabear",
+    "logo": "https://lh3.googleusercontent.com/1wTnxFx6paNeV1lv_ht10OFpDucUhg-fL6IZbPrai3Jf_3pHS5dSazhpU_UBn2BVQBUEffYAeoo2iVbCu9LPeUDhmwZwt_7J4xpdrQ=s120",
+    "isVerified": false,
+    "floorPrice": "4.969",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjQ3NTY4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDI0NzU2OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjQ3NTY4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 36362.31982898132,
+    "numOwners": 5092,
+    "totalSupply": 9999,
+    "sevenDayChange": 3.567367517749753,
+    "sevenDayVolume": 18370.62378136241,
+    "oneDayChange": -0.3859075252820541,
+    "oneDayVolume": 1200.1751660000004,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 22392.77082995679,
+    "totalVolume": 22392.77082995674,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjQ3NTY4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDg4NjIx",
+    "__typename": "CollectionType",
+    "createdDate": "2021-04-22T23:14:03.967121",
+    "name": "Bored Ape Yacht Club",
+    "slug": "boredapeyachtclub",
+    "logo": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s120",
+    "isVerified": true,
+    "floorPrice": "74.69",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0ODg2MjE="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDg4NjIx"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0ODg2MjE=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 855186.1028775834,
+    "numOwners": 6087,
+    "totalSupply": 10000,
+    "sevenDayChange": -0.28418056786302426,
+    "sevenDayVolume": 16334.054564961842,
+    "oneDayChange": -0.5731679000435547,
+    "oneDayVolume": 1241.989,
+    "thirtyDayChange": 0.23059401374575075,
+    "thirtyDayVolume": 58162.34523093638,
+    "totalVolume": 316332.88679113216,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0ODg2MjE="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjIyNDM5MA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-10-17T13:00:47.419945",
+    "name": "Doodles",
+    "slug": "doodles-official",
+    "logo": "https://lh3.googleusercontent.com/7B0qai02OdHA8P_EOVK672qUliyjQdQDGNrACxs7WnTgZAkJa_wWURnIFKeOh5VTf8cfTqW3wQpozGedaC9mteKphEOtztls02RlWQ=s120",
+    "isVerified": true,
+    "floorPrice": "12.0",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjI0Mzkw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjIyNDM5MA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjI0Mzkw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 147447.02769546007,
+    "numOwners": 5740,
+    "totalSupply": 9999,
+    "sevenDayChange": -0.03961439220250831,
+    "sevenDayVolume": 12150.850167122622,
+    "oneDayChange": 0.6947007743560709,
+    "oneDayVolume": 1373.7397000000008,
+    "thirtyDayChange": 1.6458443674533207,
+    "thirtyDayVolume": 31143.00958626802,
+    "totalVolume": 59129.21767530461,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjI0Mzkw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTE2Njc5NA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-08-29T00:41:59.548458",
+    "name": "Mutant Ape Yacht Club",
+    "slug": "mutant-ape-yacht-club",
+    "logo": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120",
+    "isVerified": true,
+    "floorPrice": "14.7",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTY2Nzk0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTE2Njc5NA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTY2Nzk0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 297769.72717110236,
+    "numOwners": 11290,
+    "totalSupply": 17724,
+    "sevenDayChange": -0.5833688451303766,
+    "sevenDayVolume": 10735.435322857957,
+    "oneDayChange": -0.2673680879543467,
+    "oneDayVolume": 1040.431630474025,
+    "thirtyDayChange": 1.1447222833615034,
+    "thirtyDayVolume": 59671.95729506266,
+    "totalVolume": 186814.3109947779,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTY2Nzk0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDUwMzE4NA==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-06T11:45:01.324057",
+    "name": "OxyaOriginProject",
+    "slug": "oxyaoriginproject",
+    "logo": "https://lh3.googleusercontent.com/noOdTJ1ElPOTuZ6uWSsr4zxqzeReD0O1TSS-q9riCnE-LpKxLf-YeyIHvHhXTxXPNPJQzHDQzmg8NajW0YEvD4beLHWZFRv4EnfUCQ=s120",
+    "isVerified": false,
+    "floorPrice": "1.595",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTAzMTg0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDUwMzE4NA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTAzMTg0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 10018.419354178934,
+    "numOwners": 4600,
+    "totalSupply": 7848,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 7938.907997405554,
+    "oneDayChange": 0.823197224323658,
+    "oneDayVolume": 725.6256747000006,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 7938.907997405556,
+    "totalVolume": 7938.907997405551,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTAzMTg0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzE1MA==",
+    "__typename": "CollectionType",
+    "createdDate": "2019-05-18T07:52:12.172167",
+    "name": "CryptoSkulls",
+    "slug": "cryptoskulls",
+    "logo": "https://lh3.googleusercontent.com/mxXgfafTwxpLtvGStBGIX5G8W-AE-dfKTBh8E3h92cIKrXiIb8OmNP7hRA33wFGSDbut0MI84PQpnk3LGOe4hC2jkP-eEjejwYWK=s120",
+    "isVerified": true,
+    "floorPrice": "0.689",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTUw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzE1MA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTUw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 5444.637136155172,
+    "numOwners": 3994,
+    "totalSupply": 9997,
+    "sevenDayChange": 9347.089771292358,
+    "sevenDayVolume": 6006.14767805534,
+    "oneDayChange": -0.5931763005832766,
+    "oneDayVolume": 1736.7326299220983,
+    "thirtyDayChange": 8945.681305658489,
+    "thirtyDayVolume": 6016.643178055336,
+    "totalVolume": 6222.762637964231,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTUw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTc5OTc2MA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-09-23T22:01:27.001772",
+    "name": "TheHeartProject",
+    "slug": "heartnftproject",
+    "logo": "https://lh3.googleusercontent.com/Xgx0cYJjfcbZI1tNOwBwlvtrcDAIm8aAP6U5Hkf7khEKmt5L-i7FGoc83RXvW6pg-oTy4x6HKlbjCTioqbA_Yqq-LhBQe7TMDse7CQ=s120",
+    "isVerified": true,
+    "floorPrice": "0.845",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxNzk5NzYw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTc5OTc2MA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNzk5NzYw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 9671.132182380868,
+    "numOwners": 5566,
+    "totalSupply": 9823,
+    "sevenDayChange": 99.90033141120533,
+    "sevenDayVolume": 5936.773598672161,
+    "oneDayChange": -0.33124776136928447,
+    "oneDayVolume": 263.16477900000007,
+    "thirtyDayChange": 54.94447553289094,
+    "thirtyDayVolume": 6030.102587672156,
+    "totalVolume": 9906.348787807176,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNzk5NzYw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6ODI5Njg4",
+    "__typename": "CollectionType",
+    "createdDate": "2021-07-27T14:26:04.834925",
+    "name": "World of Women",
+    "slug": "world-of-women-nft",
+    "logo": "https://lh3.googleusercontent.com/7rQxqp2cAN4J-pFJ6A22Ncb_tm2j6Lz61zXMi9bNJbmAk8PheVXcL4zVIZptVQ8_owbOJAiYuhSbn0vtjwcE4Jg7FQqDGwZTndd-_A=s120",
+    "isVerified": true,
+    "floorPrice": "4.75",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo4Mjk2ODg="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6ODI5Njg4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4Mjk2ODg=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 47270.440668259434,
+    "numOwners": 4878,
+    "totalSupply": 10000,
+    "sevenDayChange": 2.5754780777543327,
+    "sevenDayVolume": 5516.460425985876,
+    "oneDayChange": 2.580242190412507,
+    "oneDayVolume": 1710.3729905359103,
+    "thirtyDayChange": 2.2804685320154188,
+    "thirtyDayVolume": 7809.380238554716,
+    "totalVolume": 34146.59516065022,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4Mjk2ODg="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NTYwNA==",
+    "__typename": "CollectionType",
+    "createdDate": "2019-12-04T10:58:29.069907",
+    "name": "The Sandbox",
+    "slug": "sandbox",
+    "logo": "https://lh3.googleusercontent.com/SXH8tW1siikB80rwCRnjm1a5xM_MwTg9Xl9Db6mioIk9HIlDM09pVoSR7GKJgS6ulSUpgW9BDtMk_ePX_NKgO9A=s60",
+    "isVerified": true,
+    "floorPrice": "3.55",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo1NjA0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NTYwNA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1NjA0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 410576.92429974367,
+    "numOwners": 18188,
+    "totalSupply": 103285,
+    "sevenDayChange": -0.058403091582152206,
+    "sevenDayVolume": 5485.754519374994,
+    "oneDayChange": 0.14704290225134314,
+    "oneDayVolume": 686.4924898999998,
+    "thirtyDayChange": -0.5324427412350763,
+    "thirtyDayVolume": 22266.923958249023,
+    "totalVolume": 141098.28309707454,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1NjA0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Mzc3NjQ4NQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-18T06:46:31.634552",
+    "name": "alien frens",
+    "slug": "alienfrensnft",
+    "logo": "https://lh3.googleusercontent.com/_zidXBb2QsMBD6OYdjED63tczeXDUr1ah7zvhSSLHQjU4BF-H-lUexkLJ76_ahmbkkItEiH738jVPG88DOFVdt4GX377cvNNgCyzFT4=s120",
+    "isVerified": false,
+    "floorPrice": "2.9",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzc2NDg1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Mzc3NjQ4NQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzc2NDg1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 27261.899711650545,
+    "numOwners": 6059,
+    "totalSupply": 9999,
+    "sevenDayChange": 0.2268313270224504,
+    "sevenDayVolume": 5204.817136667756,
+    "oneDayChange": -0.3932049604150637,
+    "oneDayVolume": 300.65844071503125,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 12042.88901877701,
+    "totalVolume": 12042.88901877714,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzc2NDg1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjU2Mw==",
+    "__typename": "CollectionType",
+    "createdDate": "2019-04-26T22:13:09.691572",
+    "name": "CryptoPunks",
+    "slug": "cryptopunks",
+    "logo": "https://lh3.googleusercontent.com/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE=s120",
+    "isVerified": true,
+    "floorPrice": null,
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyNTYz"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjU2Mw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNTYz",
+    "__typename": "CollectionStatsType",
+    "marketCap": 749772.1312304346,
+    "numOwners": 3324,
+    "totalSupply": 9999,
+    "sevenDayChange": -0.32290939940889907,
+    "sevenDayVolume": 5173.945099999999,
+    "oneDayChange": -0.5981874220297938,
+    "oneDayVolume": 328.53,
+    "thirtyDayChange": -0.08981227625553838,
+    "thirtyDayVolume": 32769.353000001036,
+    "totalVolume": 780094.5242493085,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNTYz"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDEzNzI0OA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-28T14:47:19.031823",
+    "name": "Prime Ape Planet PAP",
+    "slug": "primeapeplanetpap",
+    "logo": "https://lh3.googleusercontent.com/Elp_bWKH4be7BFwUbM84JhRgggPwP1XM1akHPJsTksP88BJoY9NWt2ECMZpY-rI3l9wrNUFdekGVC7-6i4vn4Al4f9iQt4JgZ6Mgxw=s120",
+    "isVerified": false,
+    "floorPrice": "1.39",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTM3MjQ4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDEzNzI0OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTM3MjQ4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 22694.223227748087,
+    "numOwners": 4819,
+    "totalSupply": 7979,
+    "sevenDayChange": -0.685800909675226,
+    "sevenDayVolume": 4505.282565829423,
+    "oneDayChange": 0.05683815041292602,
+    "oneDayVolume": 337.3277640106384,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 23039.91200140556,
+    "totalVolume": 23039.912001405348,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTM3MjQ4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDQxODMzNw==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-04T16:49:31.681945",
+    "name": "NFT Bored Bunny",
+    "slug": "bored-bunny--nft",
+    "logo": "https://lh3.googleusercontent.com/dpHCrlverfVuJMixZvOqKlOznhnAc9qMC7ewgeLvSv4deBwXizck72INJFLdzjipaNLD1j8exBiwFYcTWkf04B2nSswY5EFwEtZSh8s=s120",
+    "isVerified": false,
+    "floorPrice": "1.249",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NDE4MzM3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDQxODMzNw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NDE4MzM3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 6412.295472754214,
+    "numOwners": 3647,
+    "totalSupply": 4999,
+    "sevenDayChange": 0.33474140331458174,
+    "sevenDayVolume": 4313.772689512387,
+    "oneDayChange": -0.48539468114199363,
+    "oneDayVolume": 198.52219803397512,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 7545.689133251899,
+    "totalVolume": 7545.689133251906,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NDE4MzM3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzYxMDY1Mg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-13T20:54:53.941287",
+    "name": "Flyfish Club",
+    "slug": "flyfish-club",
+    "logo": "https://lh3.googleusercontent.com/3mPdo7sj92tMMNcr8-t51cFsTPVJuEZaxkL8Wx_1rPo5mHIqdRmCwC33u6bdLSR7y3TwN2mS4rBCPffsDTdtDGebDWJ-cG2WD-Ha4g=s120",
+    "isVerified": true,
+    "floorPrice": "3.244",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjEwNjUy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzYxMDY1Mg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjEwNjUy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 6963.165670581335,
+    "numOwners": 1165,
+    "totalSupply": 1520,
+    "sevenDayChange": 13.666740783914328,
+    "sevenDayVolume": 3985.496140398527,
+    "oneDayChange": -0.18879813687679117,
+    "oneDayVolume": 98.22600000000001,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 4493.579895898516,
+    "totalVolume": 4493.579895898524,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjEwNjUy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzU2OTMyMg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-12T18:32:58.410707",
+    "name": "CLONE X - X TAKASHI MURAKAMI",
+    "slug": "clonex",
+    "logo": "https://lh3.googleusercontent.com/XN0XuD8Uh3jyRWNtPTFeXJg_ht8m5ofDx6aHklOiy4amhFuWUa0JaR6It49AH8tlnYS386Q0TW_-Lmedn0UET_ko1a3CbJGeu5iHMg=s120",
+    "isVerified": true,
+    "floorPrice": "5.8888",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTY5MzIy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzU2OTMyMg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTY5MzIy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 136960.61829497194,
+    "numOwners": 7542,
+    "totalSupply": 18442,
+    "sevenDayChange": -0.46933627625762536,
+    "sevenDayVolume": 3802.3986859898946,
+    "oneDayChange": 0.5143712816055898,
+    "oneDayVolume": 744.3783000000001,
+    "thirtyDayChange": 5.564646302583617,
+    "thirtyDayVolume": 50508.7094788899,
+    "totalVolume": 58202.75835080097,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTY5MzIy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTM2NTM=",
+    "__typename": "CollectionType",
+    "createdDate": "2020-11-27T15:58:37.366034",
+    "name": "Art Blocks Curated",
+    "slug": "art-blocks",
+    "logo": "https://lh3.googleusercontent.com/GwnosrkaneKGEkWySxvTSzZ5bEUjWkRuQzLSNfrpgy2-gxYjoR3m5PohLT9Fzy0p1tohajZ1g-LFfF_ZLnS1GqlPNHPUaKUbDhbf=s120",
+    "isVerified": true,
+    "floorPrice": null,
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzY1Mw=="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTM2NTM="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzY1Mw==",
+    "__typename": "CollectionStatsType",
+    "marketCap": 200221.7992921185,
+    "numOwners": 10313,
+    "totalSupply": 48283,
+    "sevenDayChange": 1.3252115017600516,
+    "sevenDayVolume": 3616.0430996981822,
+    "oneDayChange": -0.8947985438574508,
+    "oneDayVolume": 248.23889999999895,
+    "thirtyDayChange": 0.21714845963743903,
+    "thirtyDayVolume": 11890.515560718606,
+    "totalVolume": 219599.03214544844,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzY1Mw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Mzc0MzI2Nw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-17T04:33:34.704431",
+    "name": "The Indifferent Duck",
+    "slug": "theindifferentduck",
+    "logo": "https://lh3.googleusercontent.com/lt3QDcR_UVUta_GJQcq3zeZ_SzvDc2Br-XDN1SFYPKMASfph2lx7X3hMc_0-L2rXosiJFmGUS6dTCR6bZrWyuVEPdgdnIKFZxbD-WA=s120",
+    "isVerified": false,
+    "floorPrice": "0.2",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzQzMjY3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Mzc0MzI2Nw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzQzMjY3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 2838.337354520401,
+    "numOwners": 4513,
+    "totalSupply": 10000,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 3430.6983604088086,
+    "oneDayChange": -0.2507494511507601,
+    "oneDayVolume": 99.46336999999997,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 3430.7673604088077,
+    "totalVolume": 3430.7673604088222,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzQzMjY3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6ODA5OTEy",
+    "__typename": "CollectionType",
+    "createdDate": "2021-07-22T12:48:58.239929",
+    "name": "Pudgy Penguins",
+    "slug": "pudgypenguins",
+    "logo": "https://lh3.googleusercontent.com/bcCd1TfusKK6wWjmshwmizmY9j7An3pp9kxopMxfIt-_I8WFnSIK-5gevOduoYK4Qpq2e3DyXgROKNfkP396W5ViEYXhxoyAZG3s_vY=s120",
+    "isVerified": true,
+    "floorPrice": "1.749",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo4MDk5MTI="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6ODA5OTEy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4MDk5MTI=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 14110.498973270254,
+    "numOwners": 4507,
+    "totalSupply": 8887,
+    "sevenDayChange": 13.639737587974514,
+    "sevenDayVolume": 3140.606162836566,
+    "oneDayChange": -0.45953982274632493,
+    "oneDayVolume": 73.28393553719008,
+    "thirtyDayChange": 1.963306892447912,
+    "thirtyDayVolume": 3833.7041322910104,
+    "totalVolume": 46549.19201220052,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4MDk5MTI="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Mzc2OTEzMA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-17T23:15:45.785451",
+    "name": "Coolman's Universe",
+    "slug": "coolmans-universe",
+    "logo": "https://lh3.googleusercontent.com/E2qCzhIiOS7mfw-vkPU3ROBTbNMeSaC47DLYXd9qiV275KGgciNbbKFgpffwOEpTTJ9JHHztmv1nnh6bOo0KpoFueK4EitHJzsqX=s120",
+    "isVerified": false,
+    "floorPrice": "1.0",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzY5MTMw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Mzc2OTEzMA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzY5MTMw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 14785.306798540321,
+    "numOwners": 5220,
+    "totalSupply": 10000,
+    "sevenDayChange": -0.010102870867088495,
+    "sevenDayVolume": 3036.902016420182,
+    "oneDayChange": -0.3650100513860319,
+    "oneDayVolume": 201.62710000000007,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 8798.121462584406,
+    "totalVolume": 8798.121462584444,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzY5MTMw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDI1MDU1Mg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-31T11:51:17.645610",
+    "name": "Coodles",
+    "slug": "coodles",
+    "logo": "https://lh3.googleusercontent.com/LGguXQTURQOH-NNpZc8qsdhKDBmKEpL_Z3HLifZk28hmF6X1r346g3sG7YWgGa13BBQKqpVvyv5jcNTQO-lm3Kd5R_BMSqcbGuxdk5s=s120",
+    "isVerified": false,
+    "floorPrice": "0.1689",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjUwNTUy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDI1MDU1Mg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjUwNTUy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 2326.1824301518113,
+    "numOwners": 4721,
+    "totalSupply": 8887,
+    "sevenDayChange": 13820.222224931807,
+    "sevenDayVolume": 2963.546469469878,
+    "oneDayChange": -0.34891650917323797,
+    "oneDayVolume": 74.47379444812456,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 2963.760889469877,
+    "totalVolume": 2963.760889469938,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjUwNTUy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6ODc3MjIx",
+    "__typename": "CollectionType",
+    "createdDate": "2021-08-05T20:23:36.545766",
+    "name": "FLUF World",
+    "slug": "fluf-world",
+    "logo": "https://lh3.googleusercontent.com/6A_zAw2qtq91-5x8yuJUwuV6ttgD2G__RWVApFWfUcH8Qb8oLhW3uP9MkonFAaHRnE4XodwYHCgESxQ3xdQlQrjTros61gPaG3qf2nQ=s120",
+    "isVerified": true,
+    "floorPrice": "3.92",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NzcyMjE="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6ODc3MjIx"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NzcyMjE=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 43638.42752778184,
+    "numOwners": 3586,
+    "totalSupply": 10000,
+    "sevenDayChange": 1.5000129298950653,
+    "sevenDayVolume": 2910.6831161030486,
+    "oneDayChange": 1.5721681236718452,
+    "oneDayVolume": 668.9908346,
+    "thirtyDayChange": 1.5635305199299696,
+    "thirtyDayVolume": 4714.479141003036,
+    "totalVolume": 22601.137736700883,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NzcyMjE="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NzQ2NzAw",
+    "__typename": "CollectionType",
+    "createdDate": "2021-06-27T09:03:35.403074",
+    "name": "Cool Cats NFT",
+    "slug": "cool-cats-nft",
+    "logo": "https://lh3.googleusercontent.com/LIov33kogXOK4XZd2ESj29sqm_Hww5JSdO7AFn5wjt8xgnJJ0UpNV9yITqxra3s_LMEW1AnnrgOVB_hDpjJRA1uF4skI5Sdi_9rULi8=s120",
+    "isVerified": true,
+    "floorPrice": "10.6869",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NDY3MDA="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NzQ2NzAw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NDY3MDA=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 116270.12813471055,
+    "numOwners": 5074,
+    "totalSupply": 9933,
+    "sevenDayChange": -0.24857911665076965,
+    "sevenDayVolume": 2797.599982300999,
+    "oneDayChange": -0.07392835731414901,
+    "oneDayVolume": 261.9789999999999,
+    "thirtyDayChange": 0.8333828974593988,
+    "thirtyDayVolume": 10020.501248080036,
+    "totalVolume": 69839.97115516882,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NDY3MDA="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjA2MDQ3Nw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-10-08T09:14:34.697573",
+    "name": "CryptoMories",
+    "slug": "cryptomories",
+    "logo": "https://lh3.googleusercontent.com/vb1frYDXLe4AHtDQORgr1O1EODOkq31xePpKvgsN3uE5wopK0M8rBYECcDbvTkOpx5Y-9x1TQIP61ae4wI9lq9qwe-wdSUsXywlw=s120",
+    "isVerified": false,
+    "floorPrice": "1.3",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyMDYwNDc3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjA2MDQ3Nw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMDYwNDc3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 18801.18835799629,
+    "numOwners": 4851,
+    "totalSupply": 10000,
+    "sevenDayChange": 0.2168496136347589,
+    "sevenDayVolume": 2603.964587582486,
+    "oneDayChange": -0.09953349798110489,
+    "oneDayVolume": 117.14699999999998,
+    "thirtyDayChange": 0.8189356513311304,
+    "thirtyDayVolume": 5144.831781282052,
+    "totalVolume": 9612.02443013891,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMDYwNDc3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDUyMDk3OA==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-06T18:54:03.739082",
+    "name": "Creepz Genesis",
+    "slug": "genesis-creepz",
+    "logo": "https://lh3.googleusercontent.com/r_FGZQ0mgacLAOzH1MxC9n-yyygNmg37QyjYvM3g4HCl1mOkeGif7_8IW62v_R4Tvx9O9EWdHkNmiQQW30DNxwcvuSbg5EM1FQeSDIo=s120",
+    "isVerified": false,
+    "floorPrice": "0.9",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTIwOTc4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDUyMDk3OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTIwOTc4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 9969.976220125509,
+    "numOwners": 3748,
+    "totalSupply": 11066,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 2538.89327564736,
+    "oneDayChange": -0.5962524814542092,
+    "oneDayVolume": 311.2697420000002,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 2538.893275647362,
+    "totalVolume": 2538.893275647364,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTIwOTc4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Mjg5NA==",
+    "__typename": "CollectionType",
+    "createdDate": "2019-04-26T22:13:21.651227",
+    "name": "Decentraland",
+    "slug": "decentraland",
+    "logo": "https://lh3.googleusercontent.com/5KIxEGmnAiL5psnMCSLPlfSxDxfRSk4sTQRSyhPdgnu70nGb2YsuVxTmO2iKEkOZOfq476Bl1hAu6aJIKjs1myY=s60",
+    "isVerified": true,
+    "floorPrice": "4.450915",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyODk0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Mjg5NA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyODk0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 610684.5222056705,
+    "numOwners": 6389,
+    "totalSupply": 97218,
+    "sevenDayChange": 0.3866588934280459,
+    "sevenDayVolume": 2512.639726000002,
+    "oneDayChange": 1.3339502804780052,
+    "oneDayVolume": 603.295239,
+    "thirtyDayChange": -0.2971949084439089,
+    "thirtyDayVolume": 7857.377755821486,
+    "totalVolume": 256914.10420091063,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyODk0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTA1NjM=",
+    "__typename": "CollectionType",
+    "createdDate": "2020-07-07T04:21:17.383133",
+    "name": "Town Star",
+    "slug": "town-star",
+    "logo": "https://lh3.googleusercontent.com/wp7V1K4Ezhi8yHU6LFpff-GMsjend65nRiwNz5pGAjCwk7ybznEpfUvXiIxQoOWBmeN00AGjVTRhLUqY4fee1fus=s120",
+    "isVerified": true,
+    "floorPrice": "0.0015924",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxMDU2Mw=="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTA1NjM="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMDU2Mw==",
+    "__typename": "CollectionStatsType",
+    "marketCap": 47.65382228323159,
+    "numOwners": 35703,
+    "totalSupply": 426,
+    "sevenDayChange": -0.08117329469861814,
+    "sevenDayVolume": 2449.1379931198885,
+    "oneDayChange": -0.18671358673756722,
+    "oneDayVolume": 289.94154149666304,
+    "thirtyDayChange": 1.8579255395233731,
+    "thirtyDayVolume": 11943.575078310947,
+    "totalVolume": 25676.010622366124,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMDU2Mw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Mzc2OTAzMQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-17T22:40:57.865846",
+    "name": "Chimera by mpkoz",
+    "slug": "chimera-by-mpkoz",
+    "logo": "https://lh3.googleusercontent.com/3eYIZhnTti692d9wvtnEppoV7fARafqQildCkKkZFJZCa2IEq0DWqgedtAL7hHJNwE3fRyOqpjvRSRrHUGfE-DXLhXgxG8k96PxFaw",
+    "isVerified": true,
+    "floorPrice": "2.19",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzY5MDMx"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Mzc2OTAzMQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzY5MDMx",
+    "__typename": "CollectionStatsType",
+    "marketCap": 3698.0060907400693,
+    "numOwners": 731,
+    "totalSupply": 987,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 2382.9096998081905,
+    "oneDayChange": -0.9172233355275002,
+    "oneDayVolume": 182.16989999999902,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 2382.909699808189,
+    "totalVolume": 2382.9096998081886,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzY5MDMx"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjAyMzc0Ng==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-10-06T04:57:55.922255",
+    "name": "NFT Worlds",
+    "slug": "nft-worlds",
+    "logo": "https://lh3.googleusercontent.com/DIafQlRW63pQ8UJqmdQBBOHZcubAE9rAkbovVx_WU_-TmIg3hF7z0y60gUGvah85_uYVgBxmhNfWUXwajaUmYZsrCPp8ZdYE0Z-wrt0=s120",
+    "isVerified": true,
+    "floorPrice": "3.97",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyMDIzNzQ2"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjAyMzc0Ng=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMDIzNzQ2",
+    "__typename": "CollectionStatsType",
+    "marketCap": 52184.99462994351,
+    "numOwners": 4554,
+    "totalSupply": 9997,
+    "sevenDayChange": -0.38935455878191827,
+    "sevenDayVolume": 2124.566651434131,
+    "oneDayChange": 0.13488481643365627,
+    "oneDayVolume": 254.16869000000005,
+    "thirtyDayChange": 3.0531590097220485,
+    "thirtyDayVolume": 7729.841817185712,
+    "totalVolume": 12141.474829833376,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMDIzNzQ2"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDUwODY3MA==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-06T14:08:42.658322",
+    "name": "The Space Bulls TSB",
+    "slug": "thespacebullstsb",
+    "logo": "https://lh3.googleusercontent.com/OKfl6FyYt6NlczC5WmBfeGUSJa-wzw0BmiT2kEAQzCgoe7sP3ixzX5VoZk6CaIiDth11vS9UuOVRRsckyCOU9LBhKdSCM6iYO4HwUQ=s120",
+    "isVerified": false,
+    "floorPrice": "0.204",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTA4Njcw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDUwODY3MA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTA4Njcw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 3068.526233919086,
+    "numOwners": 5306,
+    "totalSupply": 8888,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 2122.2131818070006,
+    "oneDayChange": 0.14572821751729945,
+    "oneDayVolume": 115.90896999899867,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 2122.213181806999,
+    "totalVolume": 2122.213181807,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTA4Njcw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzQ1Njc0OA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-09T06:06:01.981578",
+    "name": "Little Lemon Friends",
+    "slug": "little-lemon-friends",
+    "logo": "https://lh3.googleusercontent.com/SSHi3LwWt7tnEIV_pvuL56-Uyr6ajDrIpFZjNn8VpCx9esjY3hkRz4MV_yUa82bdzt5eUdnTizeBB615CPKkqHEED-71dLrczPs6npY=s120",
+    "isVerified": false,
+    "floorPrice": "0.499",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDU2NzQ4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzQ1Njc0OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDU2NzQ4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 8120.575649755432,
+    "numOwners": 4633,
+    "totalSupply": 9997,
+    "sevenDayChange": 0.5986514330487763,
+    "sevenDayVolume": 2107.109456383474,
+    "oneDayChange": -0.04230375428100037,
+    "oneDayVolume": 93.84629898999998,
+    "thirtyDayChange": 103.14326310031291,
+    "thirtyDayVolume": 4518.250521750234,
+    "totalVolume": 4561.6354742402,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDU2NzQ4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzE0Mjc2Mg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-11-29T08:20:45.145208",
+    "name": "Worldwide Webb Land",
+    "slug": "worldwidewebbland",
+    "logo": "https://lh3.googleusercontent.com/Tc7kJNU7hcpmCCykek6ANVhWervl1zhbNIlM_T3VSR1hsSCrOGG6IiNALSs8v-OgUVJvoKW6tVbJWjnJti_o0ihvUNlxFWfZV9V9=s120",
+    "isVerified": false,
+    "floorPrice": "1.35",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTQyNzYy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzE0Mjc2Mg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTQyNzYy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 17072.806538787132,
+    "numOwners": 4747,
+    "totalSupply": 9508,
+    "sevenDayChange": 0.042543005666806806,
+    "sevenDayVolume": 2100.8817469900027,
+    "oneDayChange": -0.07251112328994806,
+    "oneDayVolume": 107.12580000000003,
+    "thirtyDayChange": 0.03864881200191755,
+    "thirtyDayVolume": 4771.587619819658,
+    "totalVolume": 9365.62129576714,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTQyNzYy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzM3OTEwOA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-07T04:59:27.767502",
+    "name": "IlluminatiNFT",
+    "slug": "illuminaticollective",
+    "logo": "https://lh3.googleusercontent.com/V7sJyL6PYZKLlJlb7QG8oZcFvCzBYm2BqUiSoIL8Z2miupOPR5VdAMQqkf3Nq-lf763efqzxu5QiItQmASQrJrSUqOWU89Z7LJvW=s120",
+    "isVerified": false,
+    "floorPrice": "0.4",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMzc5MTA4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzM3OTEwOA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMzc5MTA4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 5780.096715919437,
+    "numOwners": 4075,
+    "totalSupply": 8128,
+    "sevenDayChange": 0.8733971735425038,
+    "sevenDayVolume": 2098.0273405860767,
+    "oneDayChange": -0.0739756921210702,
+    "oneDayVolume": 80.39880000000001,
+    "thirtyDayChange": 113.77531267543765,
+    "thirtyDayVolume": 3310.565218244575,
+    "totalVolume": 3339.409097133471,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMzc5MTA4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDAxODY5Mg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-25T05:04:41.533646",
+    "name": "inBetweeners by GianPiero",
+    "slug": "inbetweeners",
+    "logo": "https://lh3.googleusercontent.com/MKEzQ2Ah4hI3iXWUy95-so2EyAvHC9PxbmBySaW94TgC3FulhqByJGgarrK5VxL1pTOzUWfVuGt_sFwVcakz47edlCuxcgtne1vAKg=s120",
+    "isVerified": false,
+    "floorPrice": "0.84",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MDE4Njky"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDAxODY5Mg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MDE4Njky",
+    "__typename": "CollectionStatsType",
+    "marketCap": 11014.093000097395,
+    "numOwners": 5427,
+    "totalSupply": 10777,
+    "sevenDayChange": -0.36817945882552844,
+    "sevenDayVolume": 2024.581816200514,
+    "oneDayChange": -0.3920648548741854,
+    "oneDayVolume": 117.81730349999998,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 8137.816202415506,
+    "totalVolume": 8137.816202415524,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MDE4Njky"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Mzk0NTk2Mg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-22T21:00:33.484429",
+    "name": "Psychedelics Anonymous Genesis",
+    "slug": "psychedelics-anonymous-genesis",
+    "logo": "https://lh3.googleusercontent.com/lgtTOxFxyk-IpOEZSbanzXxvnmtE2x1EhAvd79xCEzn7GkDJ3sAt7CzZNukX7u9cfR4dyy-eLiYfLc2W81iS6YS3CLj8w7hwtGvZxA=s120",
+    "isVerified": false,
+    "floorPrice": "1.39",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTQ1OTYy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Mzk0NTk2Mg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTQ1OTYy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 20941.486683183794,
+    "numOwners": 6829,
+    "totalSupply": 9595,
+    "sevenDayChange": -0.5307457828850984,
+    "sevenDayVolume": 2007.9382749900042,
+    "oneDayChange": -0.11868105327745848,
+    "oneDayVolume": 135.01629999999997,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 10232.430813759438,
+    "totalVolume": 10232.430813759385,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTQ1OTYy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjMwOTU4NQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-10-22T02:45:57.537932",
+    "name": "ALPACADABRAZ",
+    "slug": "alpacadabraz",
+    "logo": "https://lh3.googleusercontent.com/3Lp0Vst9cxJ5YxY5hk5AFNyonTLpHEQMsVo_7pvyBnmxq9f4vn3K1W9eJYH-QuEuOoQQ3zm9yLWAluHZst2xse_CLP1XmOuFEcVD=s120",
+    "isVerified": false,
+    "floorPrice": "0.87",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyMzA5NTg1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjMwOTU4NQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMzA5NTg1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 10529.426140636198,
+    "numOwners": 3822,
+    "totalSupply": 9668,
+    "sevenDayChange": 2.2022029418059863,
+    "sevenDayVolume": 1854.7385930392477,
+    "oneDayChange": -0.12280019361843166,
+    "oneDayVolume": 98.3648002,
+    "thirtyDayChange": 13.617124663651602,
+    "thirtyDayVolume": 2738.8848501379434,
+    "totalVolume": 4914.158975050994,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMzA5NTg1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NTgwMzgw",
+    "__typename": "CollectionType",
+    "createdDate": "2021-05-11T18:22:19.398578",
+    "name": "VeeFriends",
+    "slug": "veefriends",
+    "logo": "https://lh3.googleusercontent.com/5y-UCAXiNOFXH551w5bWdZEYOCdHPwbqmcKb-xa3uVQEjQgxvih3HtZWSmzqDqd0uk7kIqFrZhw32Gt6xPBFg4t_n9BKhpou-dwnOg=s120",
+    "isVerified": true,
+    "floorPrice": "12.8",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo1ODAzODA="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NTgwMzgw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1ODAzODA=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 175964.11974490745,
+    "numOwners": 5177,
+    "totalSupply": 10255,
+    "sevenDayChange": 0.3045506325092659,
+    "sevenDayVolume": 1853.1569900000004,
+    "oneDayChange": 0.23312524801523044,
+    "oneDayVolume": 185.61,
+    "thirtyDayChange": 1.0336367527502397,
+    "thirtyDayVolume": 4647.2873010179665,
+    "totalVolume": 37103.20446272253,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1ODAzODA="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDI1NTUwOA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-31T15:27:34.731062",
+    "name": "LinksDAO",
+    "slug": "linksdao",
+    "logo": "https://lh3.googleusercontent.com/4flXT3VrXYC63isfk78Ki3UbDA4tALcMgYCTelqq5n8Z3rQr_Nl_Q1a3NroC6bCDRQ0YDHpkJMHmIXcCcuAmtkenRUuECs8eKD2Ka-0=s120",
+    "isVerified": false,
+    "floorPrice": "0.74",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjU1NTA4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDI1NTUwOA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjU1NTA4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 7462.6351606540575,
+    "numOwners": 5273,
+    "totalSupply": 9090,
+    "sevenDayChange": 0.4091112912636545,
+    "sevenDayVolume": 1779.0462478698946,
+    "oneDayChange": -0.6121744050718003,
+    "oneDayVolume": 378.9608900000004,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 3041.5769357578997,
+    "totalVolume": 3041.57693575793,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjU1NTA4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NzI1MTc5",
+    "__typename": "CollectionType",
+    "createdDate": "2021-06-18T21:32:25.355263",
+    "name": "Bored Ape Kennel Club",
+    "slug": "bored-ape-kennel-club",
+    "logo": "https://lh3.googleusercontent.com/l1wZXP2hHFUQ3turU5VQ9PpgVVasyQ79-ChvCgjoU5xKkBA50OGoJqKZeMOR-qLrzqwIfd1HpYmiv23JWm0EZ14owiPYaufqzmj1=s120",
+    "isVerified": true,
+    "floorPrice": "5.71",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo3MjUxNzk="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NzI1MTc5"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3MjUxNzk=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 61168.55992608701,
+    "numOwners": 5274,
+    "totalSupply": 9602,
+    "sevenDayChange": -0.7467236046030066,
+    "sevenDayVolume": 1758.2298000000014,
+    "oneDayChange": -0.5094441359204352,
+    "oneDayVolume": 200.60610000000005,
+    "thirtyDayChange": 2.2249177062521737,
+    "thirtyDayVolume": 11949.313600624364,
+    "totalVolume": 50988.48151467957,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3MjUxNzk="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTg5MTI2Mg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-09-28T04:59:44.631052",
+    "name": "Capsule House",
+    "slug": "capsulehouse",
+    "logo": "https://lh3.googleusercontent.com/jzt7Uq5x6lN4PsVC9R_AU2RUujBEw1Pfe6ygJbKc4YRR9r6c8x8dFmh-hYarCcmVQfvHJMjNUKR2tN4g96Tmv-3YyxyQspva78GWZg=s120",
+    "isVerified": true,
+    "floorPrice": "1.58",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxODkxMjYy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTg5MTI2Mg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxODkxMjYy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 18980.76793394369,
+    "numOwners": 3009,
+    "totalSupply": 10000,
+    "sevenDayChange": -0.44573450127047803,
+    "sevenDayVolume": 1734.8421891624532,
+    "oneDayChange": -0.3904701013833952,
+    "oneDayVolume": 156.15899999999993,
+    "thirtyDayChange": 46.43902107782683,
+    "thirtyDayVolume": 5261.63648329128,
+    "totalVolume": 10321.184126634127,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxODkxMjYy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDU2OTU2OA==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-07T20:00:20.370714",
+    "name": "ChubbyKaijuDAO",
+    "slug": "chubbykaijudao",
+    "logo": "https://lh3.googleusercontent.com/243xUn5kPrfnb__Icd-_i3D7iR_RlkrosgH6O0hS3lAmxOZOkWIPw8Tl6HywwxVTUP5nPC2mvSDntDbh3e8__8kl_sDm_CNa9PBLzyQ=s120",
+    "isVerified": false,
+    "floorPrice": "0.1",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTY5NTY4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDU2OTU2OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTY5NTY4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 2119.1149118356875,
+    "numOwners": 4421,
+    "totalSupply": 9999,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 1718.3502055369293,
+    "oneDayChange": -0.8583662648210502,
+    "oneDayVolume": 87.76229990000014,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 1718.350205536929,
+    "totalVolume": 1718.3502055368922,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTY5NTY4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzYzNTM3Nw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-14T12:08:46.287389",
+    "name": "Samurai Saga",
+    "slug": "samuraisaga",
+    "logo": "https://lh3.googleusercontent.com/xTEYeliaqJ0F239BrFP3ql7Qmarc24KWIHTSDSQIPOjuuiTObPm9o7GOkH-oMx6YW2CqMQa9z4M-3J4iyaMMHeQZZdfrjx9pZYCq=s120",
+    "isVerified": false,
+    "floorPrice": "0.179",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjM1Mzc3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzYzNTM3Nw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjM1Mzc3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 3047.9429885384707,
+    "numOwners": 3674,
+    "totalSupply": 9999,
+    "sevenDayChange": 24.93040092673505,
+    "sevenDayVolume": 1659.2160839152643,
+    "oneDayChange": -0.4208327757006951,
+    "oneDayVolume": 61.01880000000001,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 1776.411967534867,
+    "totalVolume": 1776.411967534864,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjM1Mzc3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDIyMzExMA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-30T16:59:05.021956",
+    "name": "FancyBears Metaverse Official",
+    "slug": "fancybearsmetaverseofficial",
+    "logo": "https://lh3.googleusercontent.com/r-XOIxDG633GCZrYIJP6cA95af2S2hp2TPNklSXt3O5bPGOU_bq2tkUTIns5DsKy0ZoR-4pDO3JL1NCMmzh73_TtBRu_wjOjniTuyQ=s120",
+    "isVerified": false,
+    "floorPrice": "0.299",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjIzMTEw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDIyMzExMA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjIzMTEw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 3362.3316268978283,
+    "numOwners": 4326,
+    "totalSupply": 7888,
+    "sevenDayChange": 17.183545276980844,
+    "sevenDayVolume": 1523.4499536679562,
+    "oneDayChange": -0.6380107408549948,
+    "oneDayVolume": 142.89552275000005,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 1607.2317426679551,
+    "totalVolume": 1607.2317426679547,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjIzMTEw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzExMDYyNw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-11-28T04:07:17.068658",
+    "name": "Wolf Game - Migrated",
+    "slug": "wolf-game-migrated",
+    "logo": "https://lh3.googleusercontent.com/Jt0pP1TzhfUrG52l_Ffe0I8KcPWmaUjk14W3R1UuuHM4BJfqS4jBkfv9-euuMQRLxNS44PvV3V_ZtMgkAhS4bBkK8FeFW2qDh-TM6A=s120",
+    "isVerified": false,
+    "floorPrice": "0.98",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTEwNjI3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzExMDYyNw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTEwNjI3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 36212.2757182354,
+    "numOwners": 4151,
+    "totalSupply": 13711,
+    "sevenDayChange": -0.5213411879190262,
+    "sevenDayVolume": 1513.356719899999,
+    "oneDayChange": 1.095715915336447,
+    "oneDayVolume": 279.1200199,
+    "thirtyDayChange": 0.11393339158834437,
+    "thirtyDayVolume": 6732.9890143294415,
+    "totalVolume": 12777.32619388822,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTEwNjI3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzkzNjczOQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-22T15:55:17.513453",
+    "name": "Genesis Critterz",
+    "slug": "critterznft",
+    "logo": "https://lh3.googleusercontent.com/7x44eOJS6RMc4cumPwCYIjGZFIyEv6dGe01ncoj7ypeyWM35tznzuH9fYIdTvhGRqTZLJGaPnPp1BAPsV8S3W2zBa6YAzwQ_JonTcQ=s120",
+    "isVerified": false,
+    "floorPrice": "1.99",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTM2NzM5"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzkzNjczOQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTM2NzM5",
+    "__typename": "CollectionStatsType",
+    "marketCap": 7527.527984587284,
+    "numOwners": 272,
+    "totalSupply": 3812,
+    "sevenDayChange": -0.29806418694225423,
+    "sevenDayVolume": 1388.208859696973,
+    "oneDayChange": -0.29947903232727635,
+    "oneDayVolume": 117.48400000000002,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 4650.250859175804,
+    "totalVolume": 4650.250859175846,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTM2NzM5"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDY2ODk4NA==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-10T01:29:11.528060",
+    "name": "PX Quest",
+    "slug": "pxquest",
+    "logo": "https://lh3.googleusercontent.com/7lWzGgt1-MGsInwTwUOQCvzi_po7c2R1cypRI5EiJSgQksMffnCQguDYo4LJGA19QV7BfLNKeLlZfhzVx1tk3LklOM54U4shemHprg=s120",
+    "isVerified": false,
+    "floorPrice": "0.48",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjY4OTg0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDY2ODk4NA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjY4OTg0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 3031.8182361233708,
+    "numOwners": 4063,
+    "totalSupply": 5000,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 1357.0418424888207,
+    "oneDayChange": -0.14683634544357346,
+    "oneDayVolume": 624.7579780000001,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 1357.0418424888207,
+    "totalVolume": 1357.0418424888353,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjY4OTg0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NzUxNzU4",
+    "__typename": "CollectionType",
+    "createdDate": "2021-06-29T10:49:13.763292",
+    "name": "Forgotten Runes Wizards Cult",
+    "slug": "forgottenruneswizardscult",
+    "logo": "https://lh3.googleusercontent.com/rfEd3YcRfS8Hk8YcZjD20Vrqu8XTazvnzklVN9pUcROrwhoLO8RbP0yiBQuemgGPpWMgEDGU7qO164x42GRn60Xv6aeFbdZkttzBjx8=s120",
+    "isVerified": true,
+    "floorPrice": "2.68",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NTE3NTg="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NzUxNzU4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NTE3NTg=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 34617.72403805528,
+    "numOwners": 2625,
+    "totalSupply": 9418,
+    "sevenDayChange": -0.026751564870307058,
+    "sevenDayVolume": 1348.9811766793682,
+    "oneDayChange": -0.30266863688604295,
+    "oneDayVolume": 55.214,
+    "thirtyDayChange": 6.526503022673615,
+    "thirtyDayVolume": 3656.1635130858126,
+    "totalVolume": 9386.552783044244,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3NTE3NTg="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDY3MDM5MA==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-10T02:27:09.353771",
+    "name": "Laid Back Llamas Collection",
+    "slug": "laid-back-llamas-collection",
+    "logo": "https://lh3.googleusercontent.com/IVKMg_EHnxv8ZE_TT1gYhK5lAG3Gbg9KZ8jAU7aRzFlsOshpwBmLXcP1NsYFxWUf4kjKRq95t8htJ1zPIcleybmn8J4Zip3bxNz4=s120",
+    "isVerified": false,
+    "floorPrice": "0.315",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjcwMzkw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDY3MDM5MA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjcwMzkw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 2197.9616215754336,
+    "numOwners": 3333,
+    "totalSupply": 7000,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 1230.230519047507,
+    "oneDayChange": 2.656699337310431,
+    "oneDayVolume": 966.0454321576004,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 1230.230519047507,
+    "totalVolume": 1230.2305190475015,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjcwMzkw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzkzNzAwMw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-22T16:04:44.113117",
+    "name": "Rug Radio Membership Pass",
+    "slug": "rug-radio-membership-pass",
+    "logo": "https://lh3.googleusercontent.com/I4Jd-ET3UY7eKLYeC7WxrmJTsyxrsXHG0Zg_Yqif0vpFhO9oA6fMdzHX6ze0g4nzSFsjP7RZSyDMPUdeuJxDCjPx9moPzPJkqeVBeco=s120",
+    "isVerified": false,
+    "floorPrice": "0.084",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTM3MDAz"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzkzNzAwMw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTM3MDAz",
+    "__typename": "CollectionStatsType",
+    "marketCap": 4046.6375811028774,
+    "numOwners": 13984,
+    "totalSupply": 18998,
+    "sevenDayChange": 1.695203822659636,
+    "sevenDayVolume": 1226.473270449014,
+    "oneDayChange": -0.16145149026708447,
+    "oneDayVolume": 200.57564645477825,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 1783.2645054527939,
+    "totalVolume": 1783.2645054528653,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozOTM3MDAz"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzA2MDQ5NQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-11-26T01:49:51.916321",
+    "name": "the littles NFT",
+    "slug": "thelittlesnft",
+    "logo": "https://lh3.googleusercontent.com/Ie_qAA75_piqy1daeu3dRKUEETbQMz0ormtUaHt8LY15I5AeGKJ45gojR9NW7SY-h_vbgA-O-hwKrU0xf6Q_qqpwQ4ep7Xld8hao=s120",
+    "isVerified": true,
+    "floorPrice": "0.58",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMDYwNDk1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzA2MDQ5NQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMDYwNDk1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 8814.173743964877,
+    "numOwners": 5583,
+    "totalSupply": 9999,
+    "sevenDayChange": 0.28912704509823806,
+    "sevenDayVolume": 1209.425580230004,
+    "oneDayChange": -0.1211319540879175,
+    "oneDayVolume": 56.01069999999998,
+    "thirtyDayChange": -0.5158077797102448,
+    "thirtyDayVolume": 2467.456613456677,
+    "totalVolume": 7563.483583861276,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMDYwNDk1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDYwNDc3Nw==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-08T16:03:53.810296",
+    "name": "NeckVille",
+    "slug": "neckville",
+    "logo": "https://lh3.googleusercontent.com/4ZB2hZ6KK00r7GdeqPlQYHJPOUHyRJRykyHpP3Jo6F7RCAabTErPWrNahlsNLcMvevshhJT0IhYBBNfCELlFQIrittPMOhKflRUiqDU=s120",
+    "isVerified": false,
+    "floorPrice": "0.12",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjA0Nzc3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDYwNDc3Nw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjA0Nzc3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1391.462265219762,
+    "numOwners": 2923,
+    "totalSupply": 5555,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 1173.0365054948957,
+    "oneDayChange": 2.681513520127756,
+    "oneDayVolume": 313.04086173142935,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 1173.0365054948957,
+    "totalVolume": 1173.0365054948943,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjA0Nzc3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzQ4NjMxMg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-10T03:26:08.538118",
+    "name": "Gunslingers Collection",
+    "slug": "gunslingersnft",
+    "logo": "https://lh3.googleusercontent.com/83x9m2uQ4AoWca5nGYKiUMnF5DNc4yLab0yJlu7zepvfSKIfdxzUj4MjyotQIAthgjhdQ2HHb4piv8hlXR2leKHcg3vLEibRRpjI=s120",
+    "isVerified": false,
+    "floorPrice": "0.12",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDg2MzEy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzQ4NjMxMg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDg2MzEy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1411.7095739309777,
+    "numOwners": 3490,
+    "totalSupply": 7777,
+    "sevenDayChange": 364.72531426885877,
+    "sevenDayVolume": 1170.1015704717863,
+    "oneDayChange": -0.22276243072576465,
+    "oneDayVolume": 28.12107999990001,
+    "thirtyDayChange": 689.9429238069337,
+    "thirtyDayVolume": 1174.602970471787,
+    "totalVolume": 1176.3029704717926,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDg2MzEy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzczOTI2Ng==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-17T01:05:06.570334",
+    "name": "adidas Originals Into the Metaverse",
+    "slug": "adidasoriginals",
+    "logo": "https://lh3.googleusercontent.com/_wXtGDZ07ZelRfyfqDQkhoTX_feD_w3wdFuJ25z2ZLA1R6GFzuQ2jOGURRS8d7UEJGJd1svd61tZnGRS4zN-VXTUUVmg8Wymt-Uk=s120",
+    "isVerified": true,
+    "floorPrice": "0.858",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzM5MjY2"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzczOTI2Ng=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzM5MjY2",
+    "__typename": "CollectionStatsType",
+    "marketCap": 0.8756494230360221,
+    "numOwners": 21289,
+    "totalSupply": 1,
+    "sevenDayChange": -0.048598022927929994,
+    "sevenDayVolume": 1161.9867843688014,
+    "oneDayChange": -0.27274694240105324,
+    "oneDayVolume": 110.72919989999998,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 16397.218198412076,
+    "totalVolume": 16397.218198412244,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzM5MjY2"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTE2MTc2NQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-08-28T19:14:35.400797",
+    "name": "Bored Ape Chemistry Club",
+    "slug": "bored-ape-chemistry-club",
+    "logo": "https://lh3.googleusercontent.com/Mf4vImKbzrJUcj7f7RZNOl9iZSEEJgkvpiUp9ugXc9dcpxFe6fvVgxYcRmTI1PnvfL_X1bD3mH4e66j6aJhqLEYm0vvpC8Jy8XJNZOI=s120",
+    "isVerified": true,
+    "floorPrice": "15.25",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTYxNzY1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTE2MTc2NQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTYxNzY1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 57.328833500000016,
+    "numOwners": 1193,
+    "totalSupply": 3,
+    "sevenDayChange": -0.7580032881069998,
+    "sevenDayVolume": 1146.5766700000004,
+    "oneDayChange": -0.6183047753391694,
+    "oneDayVolume": 92,
+    "thirtyDayChange": 3.048169868549484,
+    "thirtyDayVolume": 10119.769259999997,
+    "totalVolume": 34338.94984364746,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTYxNzY1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzUzNjI4Nw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-11T18:22:45.276088",
+    "name": "NeoTokyo Outer Identities",
+    "slug": "neotokyo-outer-identities",
+    "logo": "https://lh3.googleusercontent.com/fmy3rZQgswpkd5TV3QWl66JG3SvIPGhWDtHr3dKKi15EAUb96k-lKFsi0amKXyJv9Lh7xnDBHG0Btq--bIorfDfL0dJ39RVQYofU=s120",
+    "isVerified": true,
+    "floorPrice": "8.8",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTM2Mjg3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzUzNjI4Nw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTM2Mjg3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 53084.608579327825,
+    "numOwners": 3980,
+    "totalSupply": 4492,
+    "sevenDayChange": -0.4734533081547088,
+    "sevenDayVolume": 1146.3061068999998,
+    "oneDayChange": 1.4584071856287424,
+    "oneDayVolume": 205.277,
+    "thirtyDayChange": 0.20973094721590016,
+    "thirtyDayVolume": 7102.18698568699,
+    "totalVolume": 12973.068442453978,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTM2Mjg3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjIzMDA4OA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-10-17T18:55:16.059357",
+    "name": "Cryptoon Goonz",
+    "slug": "cryptoongoonz",
+    "logo": "https://lh3.googleusercontent.com/eQQq18n4zbe7asYzf3E-GXR2rVjz6YqUwFyzpTs9z0dHupnTkAzwUtHPdFFBRT20y5SvBDUhvt6Cfmpwe3VOPwZBgYcL0lhOeANn2Q=s120",
+    "isVerified": false,
+    "floorPrice": "0.7",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjMwMDg4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjIzMDA4OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjMwMDg4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 5865.821310777532,
+    "numOwners": 3859,
+    "totalSupply": 6968,
+    "sevenDayChange": 4.638525015446806,
+    "sevenDayVolume": 1138.9862562402411,
+    "oneDayChange": -0.19003428677048334,
+    "oneDayVolume": 56.83207999999999,
+    "thirtyDayChange": -0.4146919331348613,
+    "thirtyDayVolume": 1493.8079027579904,
+    "totalVolume": 4055.7621849487823,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMjMwMDg4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6ODQzODA0",
+    "__typename": "CollectionType",
+    "createdDate": "2021-07-30T21:52:12.603912",
+    "name": "VOX Collectibles",
+    "slug": "collectvox",
+    "logo": "https://lh3.googleusercontent.com/2QUNq1tqWDePg7jCqM7usnLNukDRTUc33VgVLkBYry4VKkess3MgRGw5fpz3qD5i2shfuyWdJH8Z8lWWyn39YcfeOMz7SjScZXnL=s120",
+    "isVerified": true,
+    "floorPrice": "2.88",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NDM4MDQ="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6ODQzODA0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NDM4MDQ=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 45058.543686192075,
+    "numOwners": 3423,
+    "totalSupply": 8888,
+    "sevenDayChange": -0.5281517494664776,
+    "sevenDayVolume": 1125.4496735300002,
+    "oneDayChange": 0.5899330925606366,
+    "oneDayVolume": 247.84989999999996,
+    "thirtyDayChange": -0.18362466804455257,
+    "thirtyDayVolume": 5967.420901977983,
+    "totalVolume": 21833.77100535606,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4NDM4MDQ="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzA4NjgzNA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-11-27T04:31:14.080119",
+    "name": "Swampverse",
+    "slug": "swampverseofficial",
+    "logo": "https://lh3.googleusercontent.com/QQpvfbD1FjrMsEgzKdq0WjY0PvAfNvmaPtgK9tFc4pdYqlUzQEzUqMVRMN6j-QY2ULU3V5qWD1bwpHqY-Q4zz02Ow_pz_6Qc4ne1mLA=s120",
+    "isVerified": false,
+    "floorPrice": "0.45",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMDg2ODM0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzA4NjgzNA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMDg2ODM0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 5405.023507498387,
+    "numOwners": 4866,
+    "totalSupply": 9599,
+    "sevenDayChange": 3.770807914489205,
+    "sevenDayVolume": 1105.329841152134,
+    "oneDayChange": -0.3311093822534833,
+    "oneDayVolume": 72.29050000000004,
+    "thirtyDayChange": -0.5397896897306992,
+    "thirtyDayVolume": 1675.8158299341374,
+    "totalVolume": 5317.228880748803,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMDg2ODM0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjE5NDgxMA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-10-15T19:16:32.231037",
+    "name": "SlimHoods",
+    "slug": "slimhoods",
+    "logo": "https://lh3.googleusercontent.com/_PXs9iFB8iSm40EfmsjJ_6VHZ7eescWHfZ_PVhinl8AFj26BjTh38iDW1Sr3bR3MU8wsTFD8tbXtaFVZPMRa9XNH-sucajGHNB2gkw=s120",
+    "isVerified": false,
+    "floorPrice": "1.1",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyMTk0ODEw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjE5NDgxMA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMTk0ODEw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 5626.429752161746,
+    "numOwners": 2872,
+    "totalSupply": 5000,
+    "sevenDayChange": -0.0816697386166952,
+    "sevenDayVolume": 1064.5205091090024,
+    "oneDayChange": -0.18776970641780183,
+    "oneDayVolume": 75.29174198999999,
+    "thirtyDayChange": 6.834947653983168,
+    "thirtyDayVolume": 2528.170297894961,
+    "totalVolume": 2981.664774103428,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMTk0ODEw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NTM2NTM1",
+    "__typename": "CollectionType",
+    "createdDate": "2021-05-03T01:32:41.897161",
+    "name": "Meebits",
+    "slug": "meebits",
+    "logo": "https://lh3.googleusercontent.com/d784iHHbqQFVH1XYD6HoT4u3y_Fsu_9FZUltWjnOzoYv7qqB5dLUqpGyHBd8Gq3h4mykK5Enj8pxqOUorgD2PfIWcVj9ugvu8l0=s120",
+    "isVerified": true,
+    "floorPrice": "4.1",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MzY1MzU="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NTM2NTM1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MzY1MzU=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 82726.56466015939,
+    "numOwners": 5575,
+    "totalSupply": 19999,
+    "sevenDayChange": 0.0562153462709271,
+    "sevenDayVolume": 1038.2703000000004,
+    "oneDayChange": 0.5900455381666818,
+    "oneDayVolume": 322.5610899999999,
+    "thirtyDayChange": 0.059954636791045554,
+    "thirtyDayVolume": 3239.779373755802,
+    "totalVolume": 80518.13469360961,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1MzY1MzU="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjE0NTk5MA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-10-13T06:13:46.161485",
+    "name": "Kaiju Kingz",
+    "slug": "kaiju-kingz",
+    "logo": "https://lh3.googleusercontent.com/80yXYN287mZWxZhcBImQes5pVi19Tm5X9q2xj6DU2o_WUJKB1AybLpiFv2nL2WL00c3idD_XAL12wZLKsV1jzL8x2fTYlakHZg3JxA=s120",
+    "isVerified": false,
+    "floorPrice": "1.269",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyMTQ1OTkw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjE0NTk5MA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMTQ1OTkw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 8750.032812454367,
+    "numOwners": 2436,
+    "totalSupply": 4320,
+    "sevenDayChange": -0.18621898063629663,
+    "sevenDayVolume": 1022.862632011448,
+    "oneDayChange": 0.16487861114878577,
+    "oneDayVolume": 68.70919999999998,
+    "thirtyDayChange": 1.3430867504353439,
+    "thirtyDayVolume": 2965.3116287427956,
+    "totalVolume": 17628.861944051787,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyMTQ1OTkw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTc2MzEzMQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-09-22T09:49:36.205865",
+    "name": "Nifty League DEGENs",
+    "slug": "niftydegen",
+    "logo": "https://lh3.googleusercontent.com/eJhIV33weRWP-pYJq9GUQtccP5WYtRWCuZKfzqX3HiclTx_3YOrCQ3nR34LPK3YpU49ezSXRdaCV4VyG53FXIa0aJyo1YkDQTYGLGw=s120",
+    "isVerified": false,
+    "floorPrice": "0.78",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxNzYzMTMx"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTc2MzEzMQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNzYzMTMx",
+    "__typename": "CollectionStatsType",
+    "marketCap": 9867.492465196052,
+    "numOwners": 3438,
+    "totalSupply": 9900,
+    "sevenDayChange": 2.0183150609289644,
+    "sevenDayVolume": 1018.6441716596328,
+    "oneDayChange": -0.33953658174890305,
+    "oneDayVolume": 27.351969679058158,
+    "thirtyDayChange": 1.1774763393944059,
+    "thirtyDayVolume": 1544.9061705648292,
+    "totalVolume": 5297.012984503587,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxNzYzMTMx"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzU0NTQzNg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-12T00:45:55.433020",
+    "name": "Thingdoms",
+    "slug": "thingdoms",
+    "logo": "https://lh3.googleusercontent.com/pj2DA_BEkdRyLSReBoSPokAAapXPSBF8bWy1MyeJCaSbcj5u-_L0ZRnWdmSEalt6vKWAcTnK1w9LXsHAtvXiDPsgf5PX3UODUgeR=s120",
+    "isVerified": true,
+    "floorPrice": "0.319",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTQ1NDM2"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzU0NTQzNg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTQ1NDM2",
+    "__typename": "CollectionStatsType",
+    "marketCap": 5189.232389539829,
+    "numOwners": 4662,
+    "totalSupply": 10000,
+    "sevenDayChange": 0.39032580021071384,
+    "sevenDayVolume": 1001.0029279422329,
+    "oneDayChange": -0.4700688134277196,
+    "oneDayVolume": 39.717600000000004,
+    "thirtyDayChange": 1.2250169899370347,
+    "thirtyDayVolume": 2215.0945030297494,
+    "totalVolume": 3210.634992404841,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTQ1NDM2"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzYwMzMwNA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-13T17:08:47.634664",
+    "name": "My Pet Hooligan",
+    "slug": "mypethooligan",
+    "logo": "https://lh3.googleusercontent.com/cdJmA0q7yBVaohfUK7AU1q7ZpeBiC5wt4nh6wRFmpQbGcYM260IP9NFPErTJs-Va0Z8x02EHEH-0wUdydBGZY2yj4akcFk0UjvAjaw=s120",
+    "isVerified": false,
+    "floorPrice": "1.27",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjAzMzA0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzYwMzMwNA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjAzMzA0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 13934.772769626725,
+    "numOwners": 5225,
+    "totalSupply": 8888,
+    "sevenDayChange": -0.5216487931725444,
+    "sevenDayVolume": 984.590155189647,
+    "oneDayChange": -0.4657354558036978,
+    "oneDayVolume": 74.56649999999999,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 8503.796002741772,
+    "totalVolume": 8503.796002741816,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjAzMzA0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDU5NDg4Ng==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-08T11:39:54.359780",
+    "name": "Larva Doods",
+    "slug": "larva-doods",
+    "logo": "https://lh3.googleusercontent.com/ZlDD9qOIEVwUOscCQFgoJy0xDdL5ZuR_TvyD12cNOjPIn_ec5OjPORl3ttzJFFnKkjt1elwM17VKmSiHJJ7MNScZ17q-L3VlM4ob7g=s120",
+    "isVerified": false,
+    "floorPrice": "0.05",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTk0ODg2"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDU5NDg4Ng=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTk0ODg2",
+    "__typename": "CollectionStatsType",
+    "marketCap": 901.9672137693738,
+    "numOwners": 4144,
+    "totalSupply": 8888,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 973.0042355558905,
+    "oneDayChange": -0.659301636697945,
+    "oneDayVolume": 23.756710000000005,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 973.0042355558905,
+    "totalVolume": 973.0042355558703,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTk0ODg2"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Mzc0ODM5NQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-17T08:59:57.640288",
+    "name": "PartyBear",
+    "slug": "partybear",
+    "logo": "https://lh3.googleusercontent.com/Pq4am5kMfPJxybtOv9OUcAIkYh6nn-A99Z_HcGnDk_G86qKm4P1yGTXEq2RBXsNirSXVJj0LxYIRKkx0wUNr_K8fPrEoRzc1M66lQQ=s120",
+    "isVerified": false,
+    "floorPrice": "0.839",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzQ4Mzk1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Mzc0ODM5NQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzQ4Mzk1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 9179.238053291967,
+    "numOwners": 4166,
+    "totalSupply": 9669,
+    "sevenDayChange": 1.6314490858627582,
+    "sevenDayVolume": 971.182183112802,
+    "oneDayChange": -0.0278532263403154,
+    "oneDayVolume": 78.4189,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 2353.5450623104475,
+    "totalVolume": 2353.5450623104507,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzQ4Mzk1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDY0NTA0NQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-09T15:02:24.710669",
+    "name": "Planetary Property Association: Shuttle Passes",
+    "slug": "ppa-shuttle-passes",
+    "logo": "https://lh3.googleusercontent.com/ibBXayHWvWdqwdYjaIrvEFqlIyUJfVQNbwbNO31aXX_6wy--lUjgm9NYNfNSbGb-Tc4b6SWHcczMOwpvmwvO9EddKj8Wxt8sdPjuFaU=s120",
+    "isVerified": false,
+    "floorPrice": "0.129",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjQ1MDQ1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDY0NTA0NQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjQ1MDQ1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 0.9101657156387113,
+    "numOwners": 6107,
+    "totalSupply": 3,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 967.5061557239501,
+    "oneDayChange": -0.7796385544779857,
+    "oneDayVolume": 116.85019898900013,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 967.5061557239499,
+    "totalVolume": 967.5061557239472,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjQ1MDQ1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6OTU3MDI1",
+    "__typename": "CollectionType",
+    "createdDate": "2021-08-15T19:00:24.764394",
+    "name": "CyberKongz VX",
+    "slug": "cyberkongz-vx",
+    "logo": "https://lh3.googleusercontent.com/vpJFZRfBl9ghj9IinaDB3w3xScD9AHwuXxpId50Yo80bw1Tt1BOhJg5pltBN-_wJwA0aCyHbcxIbXNnQ1cKd9xlc5ATdJUL4Yy3kDQ=s120",
+    "isVerified": true,
+    "floorPrice": "1.92",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo5NTcwMjU="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6OTU3MDI1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo5NTcwMjU=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 31478.010735610358,
+    "numOwners": 4347,
+    "totalSupply": 14745,
+    "sevenDayChange": -0.18422848816177195,
+    "sevenDayVolume": 963.0762199546623,
+    "oneDayChange": 1.2514122912651726,
+    "oneDayVolume": 246.53475269000003,
+    "thirtyDayChange": 1.1928001655717837,
+    "thirtyDayVolume": 2675.1120078483445,
+    "totalVolume": 21326.180474533296,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo5NTcwMjU="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjY5MDcxOA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-11-10T11:13:43.195795",
+    "name": "Kumo x World Residents",
+    "slug": "kumo-x-world-residents",
+    "logo": "https://lh3.googleusercontent.com/y4a-AXUGQ3X4FefvdTyyUlwXOMUSLh3G1dtYR3BxHTThXgAsDGPkF-WcHSuhbSKXwdNKR09jB9-L_fhG2oQPjEkuUY9hnzABY1f2=s120",
+    "isVerified": false,
+    "floorPrice": "0.395",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyNjkwNzE4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjY5MDcxOA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNjkwNzE4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 3294.871295590936,
+    "numOwners": 3542,
+    "totalSupply": 6641,
+    "sevenDayChange": 0.006854860876265072,
+    "sevenDayVolume": 962.017082088665,
+    "oneDayChange": 0.2769080303420071,
+    "oneDayVolume": 53.271100000000004,
+    "thirtyDayChange": 2.6328744851810146,
+    "thirtyDayVolume": 1944.3027509096132,
+    "totalVolume": 2479.4995375976046,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyNjkwNzE4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzcwMjY5NQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-16T01:53:24.325274",
+    "name": "Imps by SuperNfty",
+    "slug": "imps-by-supernfty",
+    "logo": "https://lh3.googleusercontent.com/dXMUHMX48_ko9vmSitVq-AQcY-_OEKSPuNAmRv4wvTjRB5Fvga3v_H9K2OW-vei_D_8e-3RBqsn_tEgfDiKrzJnCnlNpCM9mFKy6=s120",
+    "isVerified": false,
+    "floorPrice": "0.1",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzAyNjk1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzcwMjY5NQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzAyNjk1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1835.4831863023185,
+    "numOwners": 4275,
+    "totalSupply": 9999,
+    "sevenDayChange": 100.32460602375949,
+    "sevenDayVolume": 942.4313109787082,
+    "oneDayChange": 0.17097719553306087,
+    "oneDayVolume": 25.609820690000024,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 984.318528264972,
+    "totalVolume": 984.3185282649556,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNzAyNjk1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzQ0MzIzNQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-08T20:00:17.464333",
+    "name": "MoodRollers by Lucas Zanotto",
+    "slug": "moodrollers-by-lucas-zanotto",
+    "logo": "https://lh3.googleusercontent.com/wE6ocgRIw10NH7PtlQJXlTvYTuO3gplXVE14Rz9XWCsQkHBnxa9PlNdIY1G1hxmSrsO0ds5EQFpiKzsETqT-UgmlzBjAncU8Cxfe=s120",
+    "isVerified": false,
+    "floorPrice": "1.08",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDQzMjM1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzQ0MzIzNQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDQzMjM1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 5191.100465737524,
+    "numOwners": 2684,
+    "totalSupply": 5000,
+    "sevenDayChange": -0.1298503420501961,
+    "sevenDayVolume": 891.8310600137066,
+    "oneDayChange": -0.004144253788709733,
+    "oneDayVolume": 57.18949998999997,
+    "thirtyDayChange": 9.021333749974373,
+    "thirtyDayVolume": 2213.6969992496006,
+    "totalVolume": 2434.595439964164,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNDQzMjM1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDY5MjQwNg==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-10T15:29:29.385485",
+    "name": "Caked Apes Official",
+    "slug": "cakedapesofficial",
+    "logo": "https://lh3.googleusercontent.com/CgGzr7DgRmduN2c_jPLwVUSxQTHShHvsYEcxdxoVO_CXxTzWj2OQS-F-A4xMOpM6WJMDP3WkWvuQpQgmpao4GlFoj24EH5nCYIwWeQ=s120",
+    "isVerified": false,
+    "floorPrice": "0.295",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjkyNDA2"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDY5MjQwNg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjkyNDA2",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1822.9773125943407,
+    "numOwners": 3810,
+    "totalSupply": 8888,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 889.1321613519877,
+    "oneDayChange": 9.330336266145416,
+    "oneDayVolume": 810.6585714719869,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 889.1321613519877,
+    "totalVolume": 889.1321613519907,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjkyNDA2"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDU2ODg4",
+    "__typename": "CollectionType",
+    "createdDate": "2021-04-16T19:57:15.677123",
+    "name": "CyberKongz",
+    "slug": "cyberkongz",
+    "logo": "https://lh3.googleusercontent.com/LIpf9z6Ux8uxn69auBME9FCTXpXqSYFo8ZLO1GaM8T7S3hiKScHaClXe0ZdhTv5br6FE2g5i-J5SobhKFsYfe6CIMCv-UfnrlYFWOM4=s120",
+    "isVerified": true,
+    "floorPrice": "6.7999999999",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTY4ODg="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDU2ODg4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTY4ODg=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 56642.217307692306,
+    "numOwners": 2373,
+    "totalSupply": 5000,
+    "sevenDayChange": -0.4696877948012891,
+    "sevenDayVolume": 883.6185899999999,
+    "oneDayChange": -0.6482392269228608,
+    "oneDayVolume": 62.6099,
+    "thirtyDayChange": 0.072804612633891,
+    "thirtyDayVolume": 4754.678679270537,
+    "totalVolume": 41871.42305906501,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTY4ODg="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6OTM2MTIx",
+    "__typename": "CollectionType",
+    "createdDate": "2021-08-13T14:30:12.621434",
+    "name": "DeadFellaz",
+    "slug": "deadfellaz",
+    "logo": "https://lh3.googleusercontent.com/seJEwLWJP3RAXrxboeG11qbc_MYrxwVrsxGH0s0qxvF68hefOjf5qrPSKkIknUTYzfvinOUPWbYBdM8VEtGEE980Qv2ti_GGd86OWQ=s120",
+    "isVerified": true,
+    "floorPrice": "1.7444444444444445",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo5MzYxMjE="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6OTM2MTIx"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo5MzYxMjE=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 19628.958863386375,
+    "numOwners": 5831,
+    "totalSupply": 9997,
+    "sevenDayChange": -0.7277680143388129,
+    "sevenDayVolume": 863.9333700000005,
+    "oneDayChange": 0.10333871611676862,
+    "oneDayVolume": 92.58059999999999,
+    "thirtyDayChange": 1.6216450815455845,
+    "thirtyDayVolume": 4676.912227122734,
+    "totalVolume": 13937.90273943661,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo5MzYxMjE="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6ODk1OTA4",
+    "__typename": "CollectionType",
+    "createdDate": "2021-08-08T15:35:22.684953",
+    "name": "Ready Player Cat NFT",
+    "slug": "ready-player-cat-nft",
+    "logo": "https://lh3.googleusercontent.com/CKnfM8FTn_30ZWM-QoO19HPfYa8KYQrYhojjNr-RyKDm-HOxiRCICg1RgvFRwZjE6RXO7WhAnICgcXOhkWYHghAwPKIEuL3iCUT9JIQ=s120",
+    "isVerified": true,
+    "floorPrice": "0.16",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo4OTU5MDg="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6ODk1OTA4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4OTU5MDg=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 2593.139844451671,
+    "numOwners": 2082,
+    "totalSupply": 4950,
+    "sevenDayChange": 310.65853916934617,
+    "sevenDayVolume": 850.0455489989997,
+    "oneDayChange": -0.7445121158317515,
+    "oneDayVolume": 6.2479,
+    "thirtyDayChange": 47.40190034737182,
+    "thirtyDayVolume": 856.9762389990025,
+    "totalVolume": 3482.918787400619,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4OTU5MDg="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NTc3NTIw",
+    "__typename": "CollectionType",
+    "createdDate": "2021-05-11T01:08:43.634595",
+    "name": "PUNKS Comic",
+    "slug": "punks-comic",
+    "logo": "https://lh3.googleusercontent.com/ejZNFaWsdUnmzbafD0TRf0RoIX9NiyaCRii_j7PhCnYa8CBW2SzGEjn3RDg4k3gYvFY8T5_cosCj7ozT69zELByZ5OvqoaWCi1LrJG0=s120",
+    "isVerified": true,
+    "floorPrice": "0.283",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo1Nzc1MjA="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NTc3NTIw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1Nzc1MjA=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 37470.2397318548,
+    "numOwners": 7283,
+    "totalSupply": 23198,
+    "sevenDayChange": -0.38305394501936124,
+    "sevenDayVolume": 830.2311932999986,
+    "oneDayChange": 0.7315923197448869,
+    "oneDayVolume": 225.6721933000001,
+    "thirtyDayChange": -0.3263421031307231,
+    "thirtyDayVolume": 3774.5011635682517,
+    "totalVolume": 48884.15154456228,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo1Nzc1MjA="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDU1Njg0Mg==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-07T14:44:43.998244",
+    "name": "Wunks",
+    "slug": "wunks",
+    "logo": "https://lh3.googleusercontent.com/PqZoMRRsf_2ma0SnEBnRJMDDjgTFn4_Ru_C4dpBDvWkEB7dwhNF77F8h6sa4QML5SXMe-ww8h0wSA0RGT07Z7qntU3lW_Kfwcz39jg=s120",
+    "isVerified": false,
+    "floorPrice": "0.08",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTU2ODQy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDU1Njg0Mg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTU2ODQy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 810.7317071030172,
+    "numOwners": 2878,
+    "totalSupply": 6000,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 826.9463412450776,
+    "oneDayChange": -0.40841235448711005,
+    "oneDayVolume": 14.36150000000001,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 826.9463412450776,
+    "totalVolume": 826.9463412450746,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTU2ODQy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTMyNDgxOA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-09-03T07:04:59.227121",
+    "name": "Frontier Game",
+    "slug": "frontiergame",
+    "logo": "https://lh3.googleusercontent.com/OxFPtHkMcpPadPxxb8Kqr4E6fcEo_NoYG48X6heC7ttx8qM2KOAebNhKNm4u6wD9Fgb9JJn_n0vcxEJwfQA8hvrjv4mpmPO5uE77Ww=s120",
+    "isVerified": true,
+    "floorPrice": "0.1",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzI0ODE4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTMyNDgxOA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzI0ODE4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 31.726743438222247,
+    "numOwners": 7142,
+    "totalSupply": 56,
+    "sevenDayChange": -0.3423125865048101,
+    "sevenDayVolume": 802.1228369671118,
+    "oneDayChange": -0.28708063128573513,
+    "oneDayVolume": 40.43319988899991,
+    "thirtyDayChange": 4.51264696065565,
+    "thirtyDayVolume": 2249.514122401258,
+    "totalVolume": 8901.429693256967,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzI0ODE4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzY2NDYzOQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-15T03:19:45.619728",
+    "name": "Noodles (Official)",
+    "slug": "noodlesnft-official",
+    "logo": "https://lh3.googleusercontent.com/8vTyYTGKjVBrFj_eJXpVTp7riIkXvidRcGtFSecKKQlX3Vg5E8et9EyVadDrox8zD-m3pt3-RgOoEbxuKyKh3n6IPlm8CKwdv5h5bRc=s120",
+    "isVerified": false,
+    "floorPrice": "0.325",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjY0NjM5"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzY2NDYzOQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjY0NjM5",
+    "__typename": "CollectionStatsType",
+    "marketCap": 3767.515456118987,
+    "numOwners": 2917,
+    "totalSupply": 5555,
+    "sevenDayChange": -0.22132716230335603,
+    "sevenDayVolume": 798.9438717026403,
+    "oneDayChange": -0.3979942296572024,
+    "oneDayVolume": 41.42429999999998,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 2040.8101486805836,
+    "totalVolume": 2040.8101486805915,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjY0NjM5"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Nzk0MTU1",
+    "__typename": "CollectionType",
+    "createdDate": "2021-07-16T21:40:10.961766",
+    "name": "SupDucks",
+    "slug": "supducks",
+    "logo": "https://lh3.googleusercontent.com/WNd3NNCiOAkD3rUNCau9qXDPQsnH3ZA8PcDMhlsfLnK6J1vSNpJnPFCjA-_l03LbCxwAYC1Mj8IcRQch7YMTDLnn_c-jAQ03RWRdEw=s120",
+    "isVerified": true,
+    "floorPrice": "1.78",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo3OTQxNTU="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Nzk0MTU1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3OTQxNTU=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 20876.619911243644,
+    "numOwners": 3464,
+    "totalSupply": 10001,
+    "sevenDayChange": -0.0563609853855746,
+    "sevenDayVolume": 789.0573269123186,
+    "oneDayChange": 1.0187257313707767,
+    "oneDayVolume": 55.577538110368835,
+    "thirtyDayChange": 0.8619347669604651,
+    "thirtyDayVolume": 2015.4226462921565,
+    "totalVolume": 19763.9182064736,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3OTQxNTU="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzgzNTU1NA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-19T22:00:19.785614",
+    "name": "SamuraiCats by Hiro Ando",
+    "slug": "samuraicats-by-hiro-ando",
+    "logo": "https://lh3.googleusercontent.com/1vG98EN2sNCzVMoSk8WVnLQy9BDCC8q1aQOZi2YkVK7IzO0ShN_wxX09b44b2sszfRAyPZqNHwF9TlBA7jE8ylUkvdESCDoi_32wyg=s120",
+    "isVerified": false,
+    "floorPrice": "0.1",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozODM1NTU0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzgzNTU1NA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozODM1NTU0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1199.745629439481,
+    "numOwners": 2116,
+    "totalSupply": 4747,
+    "sevenDayChange": 9.263276991259989,
+    "sevenDayVolume": 786.0140947033466,
+    "oneDayChange": -0.22063716887986717,
+    "oneDayVolume": 14.193600000000004,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 872.8564947033494,
+    "totalVolume": 872.856494703345,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozODM1NTU0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDYwNTIwNQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-08T16:14:05.165819",
+    "name": "The-Companion",
+    "slug": "nft-the-companion",
+    "logo": "https://lh3.googleusercontent.com/gmlOfPnOtv32MFT1XLlVcTA2NCwAoncoKvIf834_FqXhoGao9YwpF9YckAwskGuYYgYwlBzBRouUmaaWIJaatFV1f2bAe255qFrg=s120",
+    "isVerified": false,
+    "floorPrice": "0.085",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjA1MjA1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDYwNTIwNQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjA1MjA1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1547.207606817453,
+    "numOwners": 5121,
+    "totalSupply": 8888,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 739.4844637444353,
+    "oneDayChange": -0.4538752239128967,
+    "oneDayVolume": 61.45735899999986,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 739.4844637444355,
+    "totalVolume": 739.4844637444369,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjA1MjA1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzY5MTU2Mw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-15T19:18:03.090228",
+    "name": "Apocalyptic Apes",
+    "slug": "apocalyptic-apes",
+    "logo": "https://lh3.googleusercontent.com/JnYVLZbfTcLlwnRa2Zm5NWXOHWlSH4YR3_TIbVjvyACSCsEszfm4xhV2IbP5q1yLrto2U3a7vYx8ud0fZ2HripLevu8mNXgX9Iop5w=s120",
+    "isVerified": false,
+    "floorPrice": "0.58",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjkxNTYz"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzY5MTU2Mw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjkxNTYz",
+    "__typename": "CollectionStatsType",
+    "marketCap": 7901.143911479498,
+    "numOwners": 3513,
+    "totalSupply": 8888,
+    "sevenDayChange": -0.6817769765998667,
+    "sevenDayVolume": 727.175486002501,
+    "oneDayChange": 0.2779813778224982,
+    "oneDayVolume": 101.42246800000001,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 4767.672107597264,
+    "totalVolume": 4767.672107597303,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjkxNTYz"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzEwNTg5Nw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-11-27T22:41:13.687462",
+    "name": "Crypto Bull Society",
+    "slug": "crypto-bull-society",
+    "logo": "https://lh3.googleusercontent.com/PcoKbJefCrX9vMPsrc8IwCH2rN8OPppi_e9UyBGQi-gehJjondQLRmGT00Ejx6vsglrWjeqPCpngdzeVfUDUqzyi8mrwOkYCVdaS=s120",
+    "isVerified": true,
+    "floorPrice": "1.32",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTA1ODk3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzEwNTg5Nw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTA1ODk3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 15489.899361075419,
+    "numOwners": 4743,
+    "totalSupply": 7776,
+    "sevenDayChange": -0.21199093522452342,
+    "sevenDayVolume": 705.9589289999899,
+    "oneDayChange": 0.19450803951620554,
+    "oneDayVolume": 99.02830000000004,
+    "thirtyDayChange": -0.5294369334441237,
+    "thirtyDayVolume": 3264.5601821505406,
+    "totalVolume": 10202.121614764299,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTA1ODk3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDE5MTUzMA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-29T21:20:13.845661",
+    "name": "Spiky Space Fish United",
+    "slug": "spikyspacefish-united",
+    "logo": "https://lh3.googleusercontent.com/ZAh7kkDwXvNx_PNVlG2xgOIakPTl-dPj4Nt3gn3CRz-13Ebc71qUUW5nayAy1JuWTSbU9lpKpWbz2z0_SK9lh6psUuwo79lQHhhd=s120",
+    "isVerified": false,
+    "floorPrice": "0.115",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTkxNTMw"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDE5MTUzMA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTkxNTMw",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1862.3835208467403,
+    "numOwners": 2984,
+    "totalSupply": 10000,
+    "sevenDayChange": 4.812368078203187,
+    "sevenDayVolume": 689.8268561216327,
+    "oneDayChange": -0.17463686505550446,
+    "oneDayVolume": 37.73589989999999,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 808.5094389932426,
+    "totalVolume": 808.509438993253,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTkxNTMw"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzYzNjMwMw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-14T12:46:08.618755",
+    "name": "THE META KONGZ",
+    "slug": "the-meta-kongz",
+    "logo": "https://lh3.googleusercontent.com/AX_uuKN-OFhtHXtzw5PJ3K-bGW5tg2svacBEv8xO_ii3UCEo6UTjqec4MiXFGP3gsxPD-p-W0d315pEvIOxG3pKNWfT3G8KvAgIl=s120",
+    "isVerified": false,
+    "floorPrice": "1.141101",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjM2MzAz"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzYzNjMwMw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjM2MzAz",
+    "__typename": "CollectionStatsType",
+    "marketCap": 12565.885037762273,
+    "numOwners": 4005,
+    "totalSupply": 9948,
+    "sevenDayChange": -0.062426788778594776,
+    "sevenDayVolume": 687.1573643488819,
+    "oneDayChange": 0.7241136902537141,
+    "oneDayVolume": 160.55125976718244,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 2554.6122362868623,
+    "totalVolume": 2554.612236286866,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjM2MzAz"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTM3MTMxNQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-09-05T01:21:18.467704",
+    "name": "MetaHero Universe: Generative Identities",
+    "slug": "metahero-generative",
+    "logo": "https://lh3.googleusercontent.com/cyJeHA0Oo-KveczexdimAxDHTCtmvApkn2SWFhq_QmU4CotxW1uCRp-rBydovapL65kG5geRCrGZts74o3eZS9VONQ6549A4DIMCjg=s120",
+    "isVerified": true,
+    "floorPrice": "6.2",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzcxMzE1"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTM3MTMxNQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzcxMzE1",
+    "__typename": "CollectionStatsType",
+    "marketCap": 41323.958193269245,
+    "numOwners": 396,
+    "totalSupply": 6259,
+    "sevenDayChange": 0.009292687160849059,
+    "sevenDayVolume": 686.6419000000002,
+    "oneDayChange": -0.6976078832956056,
+    "oneDayVolume": 67.327,
+    "thirtyDayChange": -0.05410560682970156,
+    "thirtyDayVolume": 1686.5457000000013,
+    "totalVolume": 10594.613247496918,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMzcxMzE1"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzU1MTYyOA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-12T07:30:52.983972",
+    "name": "Jadu Hoverboard",
+    "slug": "jadu-hoverboard",
+    "logo": "https://lh3.googleusercontent.com/6aidut4KF0Ltw296sQ07V1KTn5_aEtssMUuQfcStrZfdGvVHVhP1z36-lcdSwpo6s3CiTSYY_jdXTg1fws_nFQWPohThvHmVXxh2MA=s120",
+    "isVerified": true,
+    "floorPrice": "1.1",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTUxNjI4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzU1MTYyOA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTUxNjI4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 7323.839699716879,
+    "numOwners": 3467,
+    "totalSupply": 6666,
+    "sevenDayChange": 1.4666867387872564,
+    "sevenDayVolume": 685.5799538888888,
+    "oneDayChange": 10.616806795051618,
+    "oneDayVolume": 437.6271838908882,
+    "thirtyDayChange": 2.873362239742801,
+    "thirtyDayVolume": 2360.8950791956413,
+    "totalVolume": 2970.415938094815,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNTUxNjI4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NzkyOTU3",
+    "__typename": "CollectionType",
+    "createdDate": "2021-07-16T12:06:51.781899",
+    "name": "BYOPills",
+    "slug": "byopills",
+    "logo": "https://lh3.googleusercontent.com/zhCC9jZrj9037Ex59PZBS1ABu8wAhWc-K-VkaTN5QRM2lfi-8e2e93VJvXO6iXZlbGzxpNQ4TRAK9aNrN61E8wp5C7zA5qjWyozm3w=s120",
+    "isVerified": true,
+    "floorPrice": "1.66",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo3OTI5NTc="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NzkyOTU3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3OTI5NTc=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 18558.746540179865,
+    "numOwners": 3367,
+    "totalSupply": 9997,
+    "sevenDayChange": 0.1621837214519789,
+    "sevenDayVolume": 685.0232543089297,
+    "oneDayChange": -0.3754141478352057,
+    "oneDayVolume": 47.08833935631166,
+    "thirtyDayChange": 4.571003111748978,
+    "thirtyDayVolume": 1812.7919735810538,
+    "totalVolume": 4309.531208005821,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo3OTI5NTc="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDIzNTcxMg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-31T00:01:50.421578",
+    "name": "NBAYC",
+    "slug": "nbayc",
+    "logo": "https://lh3.googleusercontent.com/Ik8f2W4IVIel56eHzmopkkzNOOhbIrgGor3fBpXFD_3ehGPxibgQOXXCJIyOhuHtsNbOdS9jKe9w7rOsGskseSCRSosuRoPOVFnN=s120",
+    "isVerified": false,
+    "floorPrice": "0.1969",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjM1NzEy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDIzNTcxMg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjM1NzEy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1590.824553253964,
+    "numOwners": 2243,
+    "totalSupply": 4999,
+    "sevenDayChange": -0.022148267223214047,
+    "sevenDayVolume": 673.37162526213,
+    "oneDayChange": -0.14734963209682425,
+    "oneDayVolume": 28.517999999999994,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 1361.995066517346,
+    "totalVolume": 1361.9950665173492,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MjM1NzEy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6Mzg4NDA2OA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-21T04:34:56.641914",
+    "name": "Larva Lads",
+    "slug": "larva-lads",
+    "logo": "https://lh3.googleusercontent.com/WoWYKPxQFVvI6xXt1LdW4Y85ypVQbZB-K1Guj6FH3bh0EDOLu1Z-qz4kGrBnGQUfh-rHw0mgRmp3-QSee3SIqCs6m-fy5QDpof_Q=s120",
+    "isVerified": false,
+    "floorPrice": "0.3",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozODg0MDY4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6Mzg4NDA2OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozODg0MDY4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 2740.7429178351485,
+    "numOwners": 2742,
+    "totalSupply": 5000,
+    "sevenDayChange": -0.22448889042523135,
+    "sevenDayVolume": 669.2894205353433,
+    "oneDayChange": -0.41344612864200553,
+    "oneDayVolume": 24.104899999999997,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 2162.5973130063867,
+    "totalVolume": 2162.5973130063735,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozODg0MDY4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzM2NTU3OA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-06T20:54:41.531623",
+    "name": "NeoTokyo Citizens",
+    "slug": "neotokyo-citizens",
+    "logo": "https://lh3.googleusercontent.com/fmy3rZQgswpkd5TV3QWl66JG3SvIPGhWDtHr3dKKi15EAUb96k-lKFsi0amKXyJv9Lh7xnDBHG0Btq--bIorfDfL0dJ39RVQYofU=s120",
+    "isVerified": true,
+    "floorPrice": "52.0",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMzY1NTc4"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzM2NTU3OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMzY1NTc4",
+    "__typename": "CollectionStatsType",
+    "marketCap": 109191.74833333332,
+    "numOwners": 1838,
+    "totalSupply": 1961,
+    "sevenDayChange": -0.08256099737749036,
+    "sevenDayVolume": 668.18,
+    "oneDayChange": -0.020999999999999942,
+    "oneDayVolume": 97.9,
+    "thirtyDayChange": 1.2409134684777519,
+    "thirtyDayVolume": 1828.90853,
+    "totalVolume": 2645.0527300000003,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMzY1NTc4"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzEyNjU5",
+    "__typename": "CollectionType",
+    "createdDate": "2021-03-28T17:58:36.404282",
+    "name": "My Curio Cards",
+    "slug": "curiocardswrapper",
+    "logo": "https://lh3.googleusercontent.com/xNW1W9O2CYUNGS2GeHqv9yHw-wLdSb9uVoc51TL5GSp8yvC2en45pqp5zYFHhRGHZpgHJdagD2QELXwpu01frltG7Nl055aVqDTDSg=s120",
+    "isVerified": true,
+    "floorPrice": "0.64",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTI2NTk="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzEyNjU5"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTI2NTk=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 31.187176797413258,
+    "numOwners": 4805,
+    "totalSupply": 30,
+    "sevenDayChange": 1.1711513980938597,
+    "sevenDayVolume": 665.3264383448162,
+    "oneDayChange": 0.2526141952745563,
+    "oneDayVolume": 103.30235101020006,
+    "thirtyDayChange": 0.7205058200181508,
+    "thirtyDayVolume": 1439.212297567382,
+    "totalVolume": 34681.18891147877,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozMTI2NTk="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTkyMTUwMg==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-09-29T19:09:50.863791",
+    "name": "Voxel Ville Official",
+    "slug": "voxel-ville-official",
+    "logo": "https://lh3.googleusercontent.com/W7gaosyJkDOSBcGBYAK597HWlEUG6Xa30zxLbTcUID-Z22lY-MlAKg2HovnURlyFJKbYbc4T4FIbsNqcIf4HmWbwiOf_SA95N6Bolg=s120",
+    "isVerified": false,
+    "floorPrice": "0.35",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxOTIxNTAy"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTkyMTUwMg=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxOTIxNTAy",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1920.6007695782682,
+    "numOwners": 1472,
+    "totalSupply": 3499,
+    "sevenDayChange": 3.7255977851439193,
+    "sevenDayVolume": 660.3265863968725,
+    "oneDayChange": -0.12822386735391933,
+    "oneDayVolume": 25.741979999999998,
+    "thirtyDayChange": 4.401647057107664,
+    "thirtyDayVolume": 818.8527463967725,
+    "totalVolume": 1108.7740863606953,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxOTIxNTAy"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDYyMDAxNA==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-08T22:43:09.838125",
+    "name": "1337 Council",
+    "slug": "1337council",
+    "logo": "https://lh3.googleusercontent.com/J3vDBWXQI91C8zbcI_lJ-psZ6EcFZvRybhB8k4yeeO0-VqSEZ5lvTzk_8h9hbSGwqYhHa6xyZnKIc8h8WCkjt4XfN5ty85ZI5MWk=s120",
+    "isVerified": false,
+    "floorPrice": "0.1849",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjIwMDE0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDYyMDAxNA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjIwMDE0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 356.34467288827744,
+    "numOwners": 722,
+    "totalSupply": 1337,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 644.1922770164298,
+    "oneDayChange": -0.641022373800658,
+    "oneDayVolume": 12.553899900000001,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 644.1922770164298,
+    "totalVolume": 644.1922770164292,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NjIwMDE0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MTEzOTg=",
+    "__typename": "CollectionType",
+    "createdDate": "2020-09-09T02:00:42.938798",
+    "name": "Emblem Vault [Ethereum]",
+    "slug": "emblem-vault",
+    "logo": "https://lh3.googleusercontent.com/VkSY4QiLanH0h2oS37cjRAENLDLBqLKUX3YC4ZvdEW60zI9OXoRl4E9uR1x3d8hU8ekFai4Ruwq4FObZ0VH2NpU=s120",
+    "isVerified": false,
+    "floorPrice": "0.03",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTM5OA=="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MTEzOTg="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTM5OA==",
+    "__typename": "CollectionStatsType",
+    "marketCap": 61081.70784211448,
+    "numOwners": 4740,
+    "totalSupply": 21648,
+    "sevenDayChange": 1.0203451914445398,
+    "sevenDayVolume": 640.46717,
+    "oneDayChange": 6.193854451315027,
+    "oneDayVolume": 326.2031,
+    "thirtyDayChange": 0.3131747421162069,
+    "thirtyDayVolume": 1562.976414527763,
+    "totalVolume": 27781.334029867216,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToxMTM5OA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MzY1MjY5Nw==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-14T21:06:36.005003",
+    "name": "The Last Supper Official",
+    "slug": "thelastsupperofficial",
+    "logo": "https://lh3.googleusercontent.com/Z07pqG2CetwCoFzgiD3wR9OJ75ycItu-TykxQEsxs1UrGgq0KgzzNB_yyY-6NCX17LQGOs6vUntPvgvXNTo9dCnV_qCWJbF5Ig_ICA=s120",
+    "isVerified": false,
+    "floorPrice": "0.066",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjUyNjk3"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MzY1MjY5Nw=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjUyNjk3",
+    "__typename": "CollectionStatsType",
+    "marketCap": 1590.6284584190792,
+    "numOwners": 4775,
+    "totalSupply": 8888,
+    "sevenDayChange": 68.32867138693895,
+    "sevenDayVolume": 638.3631538232286,
+    "oneDayChange": -0.4422192238015022,
+    "oneDayVolume": 219.81694748125577,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 651.1688338232284,
+    "totalVolume": 651.1688338232246,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTozNjUyNjk3"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDE5MTI3NA==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-12-29T21:13:27.535311",
+    "name": "Spritely - Genesis Collection",
+    "slug": "spritely-genesis",
+    "logo": "https://lh3.googleusercontent.com/F4I5xQKadmWTcaZTZJmI3yAVhnDQpsDtlJr5AxvBZ0w61sHs-EHRjwY2HRxuueSAN8lrkptIpgRtrNv_ElPg7NYGNN3HQEj4HGvE=s120",
+    "isVerified": false,
+    "floorPrice": "0.045",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTkxMjc0"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDE5MTI3NA=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTkxMjc0",
+    "__typename": "CollectionStatsType",
+    "marketCap": 723.6476675397063,
+    "numOwners": 2235,
+    "totalSupply": 6000,
+    "sevenDayChange": 9358.531229428916,
+    "sevenDayVolume": 636.4481236011663,
+    "oneDayChange": -0.20049526642196638,
+    "oneDayVolume": 19.131300000000007,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 636.5161236011793,
+    "totalVolume": 636.5161236011754,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0MTkxMjc0"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6ODc5ODgx",
+    "__typename": "CollectionType",
+    "createdDate": "2021-08-06T06:37:58.189522",
+    "name": "Lazy Lions",
+    "slug": "lazy-lions",
+    "logo": "https://lh3.googleusercontent.com/62sZVScyxqlvpNh6J0JhiudQFegqTvqx_11YZxWJnwZqbLbvYklFjtVHWKwDZkLxH3acnJMUEsZhmUqTPcB_NRk9uv0RR0fw61_B=s120",
+    "isVerified": true,
+    "floorPrice": "1.5",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo4Nzk4ODE="
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6ODc5ODgx"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4Nzk4ODE=",
+    "__typename": "CollectionStatsType",
+    "marketCap": 20027.725481010173,
+    "numOwners": 5035,
+    "totalSupply": 10080,
+    "sevenDayChange": -0.363922026875687,
+    "sevenDayVolume": 623.87954375369,
+    "oneDayChange": -0.42116799522821946,
+    "oneDayVolume": 41.460000000000015,
+    "thirtyDayChange": -0.044127070394506106,
+    "thirtyDayVolume": 2227.5930565177227,
+    "totalVolume": 21788.979631700255,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo4Nzk4ODE="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6MjkwMTU4MQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2021-11-19T13:12:36.549230",
+    "name": "VOX Collectibles: Mirandus",
+    "slug": "collectvoxmirandus",
+    "logo": "https://lh3.googleusercontent.com/wzxBcOr_VAjwDqkaQ4ppAsc556coUTWIQf6db_tobrmmi4z8u0KwPM8qam421G6o_fLgjpB8jyUcDYEjxqaR6oMFbjxx937YmWFOdQ=s120",
+    "isVerified": true,
+    "floorPrice": "1.75",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZToyOTAxNTgx"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6MjkwMTU4MQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZToyOTAxNTgx",
+    "__typename": "CollectionStatsType",
+    "marketCap": 26062.871305486347,
+    "numOwners": 4118,
+    "totalSupply": 8236,
+    "sevenDayChange": -0.6935374037990033,
+    "sevenDayVolume": 620.2431733700005,
+    "oneDayChange": 0.4665251540978751,
+    "oneDayVolume": 107.48380999999999,
+    "thirtyDayChange": 1.1705179163303268,
+    "thirtyDayVolume": 10142.52484754946,
+    "totalVolume": 14977.659021129253,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZToyOTAxNTgx"
+  },
+  {
+    "__id": "Q29sbGVjdGlvblR5cGU6NDU4MTU2MQ==",
+    "__typename": "CollectionType",
+    "createdDate": "2022-01-08T02:40:59.325677",
+    "name": "pxMythics Genesis",
+    "slug": "pxmythics-genesis",
+    "logo": "https://lh3.googleusercontent.com/R3b_Ju-BF7Ae45pp1f7UxCS5wF06dfFG7ydux_v9S8lJ7CL3j4kgv7a0nM4yVw-GhOH21ZigeaNluK-nuo6Dclq9LdQYH2Cvj8PfMQ=s120",
+    "isVerified": false,
+    "floorPrice": "0.27",
+    "stats": {
+      "__ref": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTgxNTYx"
+    },
+    "id": "Q29sbGVjdGlvblR5cGU6NDU4MTU2MQ=="
+  },
+  {
+    "__id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTgxNTYx",
+    "__typename": "CollectionStatsType",
+    "marketCap": 965.6583286546937,
+    "numOwners": 829,
+    "totalSupply": 1077,
+    "sevenDayChange": 0,
+    "sevenDayVolume": 609.7007088998995,
+    "oneDayChange": -0.8712463496368473,
+    "oneDayVolume": 20.05669,
+    "thirtyDayChange": 0,
+    "thirtyDayVolume": 609.7007088998995,
+    "totalVolume": 609.7007088998998,
+    "id": "Q29sbGVjdGlvblN0YXRzVHlwZTo0NTgxNTYx"
+  }
+]
