@@ -2,13 +2,15 @@ from bs4 import BeautifulSoup
 from urllib.request import Request, urlopen
 import json
 
-html = Request("https://opensea.io/rankings", headers={'User-Agent': 'Mozilla/5.0'})
 
-url = urlopen(html)
-bs = BeautifulSoup(url, "html.parser")
-#print(bs.prettify())
+def Request_page(url):
+    html = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
 
-raw_data = bs.find('script').text
+    url = urlopen(html)
+    bs = BeautifulSoup(url, "html.parser")
+    return bs
+
+raw_data = Request_page("https://opensea.io/rankings").find('script').text
 #print(raw_data)
 data = raw_data.replace("window.__wired__=", "")
 json_object = json.loads(data)
@@ -23,12 +25,19 @@ for nfts in json_object["records"]:
         nft = json_object["records"][nfts]
         array.append(nft)
 
+links = []
 for itens in array:
     for item in itens:
         if item == "name": 
             print(f"Coleção NFT: {itens[item]}")
         if item == "slug":
-            print(f"URL: {itens[item]}")
+            url_collection = "https://opensea.io/collection/"
+            #print(f"URL: {url_collection + itens[item]}")
+            links.append(url_collection + itens[item])
+
+#for link in links:
+#    Request_page(link).find().text
+
 
 #with open('nft.json', 'w', encoding='latin-1') as f:
 #    json.dump(array, f, indent=2, ensure_ascii=False)
